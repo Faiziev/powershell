@@ -1,0 +1,3844 @@
+[{
+  "name": "İSTANBUL",
+  "counties": [{
+    "name": "ADALAR",
+    "districts": [{
+      "name": "BURGAZADA",
+      "neighborhoods": [{
+        "name": "BURGAZADA MAH",
+        "code": "34975"
+      }]
+    }, {
+      "name": "BÜYÜKADA",
+      "neighborhoods": [{
+        "name": "MADEN MAH",
+        "code": "34970"
+      }, {
+        "name": "NİZAM MAH",
+        "code": "34970"
+      }]
+    }, {
+      "name": "HEYBELİADA",
+      "neighborhoods": [{
+        "name": "HEYBELİADA MAH",
+        "code": "34973"
+      }]
+    }, {
+      "name": "KINALIADA",
+      "neighborhoods": [{
+        "name": "KINALIADA MAH",
+        "code": "34977"
+      }]
+    }]
+  }, {
+    "name": "ARNAVUTKÖY",
+    "districts": [{
+      "name": "ARNAVUTKÖY",
+      "neighborhoods": [{
+        "name": "ANADOLU MAH",
+        "code": "34275"
+      }, {
+        "name": "ARNAVUTKÖY MERKEZ MAH",
+        "code": "34275"
+      }, {
+        "name": "İMRAHOR MAH",
+        "code": "34275"
+      }, {
+        "name": "İSLAMBEY MAH",
+        "code": "34275"
+      }, {
+        "name": "MUSTAFA KEMAL PAŞA MAH",
+        "code": "34275"
+      }, {
+        "name": "NENEHATUN MAH",
+        "code": "34275"
+      }, {
+        "name": "YAVUZ SELİM MAH",
+        "code": "34275"
+      }]
+    }, {
+      "name": "BAKLALI",
+      "neighborhoods": [{
+        "name": "ADNAN MENDERES MAH",
+        "code": "34277"
+      }, {
+        "name": "BAKLALI MAH",
+        "code": "34277"
+      }, {
+        "name": "BALABAN MAH",
+        "code": "34277"
+      }, {
+        "name": "BOYALIK MAH",
+        "code": "34277"
+      }, {
+        "name": "ÇİLİNGİR MAH",
+        "code": "34277"
+      }, {
+        "name": "DURSUNKÖY MAH",
+        "code": "34277"
+      }, {
+        "name": "DURUSU MAH",
+        "code": "34277"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34277"
+      }, {
+        "name": "HACIMAŞLI MAH",
+        "code": "34277"
+      }, {
+        "name": "KARABURUN MAH",
+        "code": "34277"
+      }, {
+        "name": "SAZLIBOSNA MAH",
+        "code": "34277"
+      }, {
+        "name": "TAYAKADIN MAH",
+        "code": "34277"
+      }, {
+        "name": "TERKOS MAH",
+        "code": "34277"
+      }, {
+        "name": "YASSIÖREN MAH",
+        "code": "34277"
+      }, {
+        "name": "YENİKÖY MAH",
+        "code": "34277"
+      }]
+    }, {
+      "name": "BOĞAZKÖY",
+      "neighborhoods": [{
+        "name": "ATATÜRK MAH",
+        "code": "34285"
+      }, {
+        "name": "BOĞAZKÖY İSTİKLAL MAH",
+        "code": "34285"
+      }, {
+        "name": "YUNUS EMRE MAH",
+        "code": "34285"
+      }]
+    }, {
+      "name": "BOLLUCA",
+      "neighborhoods": [{
+        "name": "BOLLUCA MAH",
+        "code": "34287"
+      }, {
+        "name": "HİCRET MAH",
+        "code": "34287"
+      }, {
+        "name": "MAVİGÖL MAH",
+        "code": "34287"
+      }]
+    }, {
+      "name": "HADIMKÖY",
+      "neighborhoods": [{
+        "name": "DELİKLİKAYA MAH",
+        "code": "34555"
+      }, {
+        "name": "HADIMKÖY MAH",
+        "code": "34555"
+      }, {
+        "name": "HASTANE MAH",
+        "code": "34555"
+      }, {
+        "name": "ÖMERLİ MAH",
+        "code": "34555"
+      }, {
+        "name": "YEŞİLBAYIR MAH",
+        "code": "34555"
+      }]
+    }, {
+      "name": "HARAÇÇI",
+      "neighborhoods": [{
+        "name": "HARAÇÇI MAH",
+        "code": "34281"
+      }, {
+        "name": "KARLIBAYIR MAH",
+        "code": "34281"
+      }]
+    }, {
+      "name": "TAŞOLUK",
+      "neighborhoods": [{
+        "name": "MAREŞAL FEVZİ ÇAKMAK MAH",
+        "code": "34283"
+      }, {
+        "name": "MEHMET AKİF ERSOY MAH",
+        "code": "34283"
+      }, {
+        "name": "TAŞOLUK MAH",
+        "code": "34283"
+      }]
+    }]
+  }, {
+    "name": "ATAŞEHİR",
+    "districts": [{
+      "name": "ATATÜRK",
+      "neighborhoods": [{
+        "name": "ATATÜRK MAH",
+        "code": "34758"
+      }]
+    }, {
+      "name": "FERHATPAŞA",
+      "neighborhoods": [{
+        "name": "FERHATPAŞA MAH",
+        "code": "34888"
+      }]
+    }, {
+      "name": "İÇERENKÖY",
+      "neighborhoods": [{
+        "name": "İÇERENKÖY MAH",
+        "code": "34752"
+      }]
+    }, {
+      "name": "KAYIŞDAĞI",
+      "neighborhoods": [{
+        "name": "İNÖNÜ MAH",
+        "code": "34755"
+      }, {
+        "name": "KAYIŞDAĞI MAH",
+        "code": "34755"
+      }]
+    }, {
+      "name": "KÜÇÜKBAKKALKÖY",
+      "neighborhoods": [{
+        "name": "KÜÇÜKBAKKALKÖY MAH",
+        "code": "34750"
+      }]
+    }, {
+      "name": "MUSTAFAKEMAL",
+      "neighborhoods": [{
+        "name": "AŞIKVEYSEL MAH",
+        "code": "34707"
+      }, {
+        "name": "MUSTAFA KEMAL MAH",
+        "code": "34707"
+      }]
+    }, {
+      "name": "ÖRNEK",
+      "neighborhoods": [{
+        "name": "ESATPAŞA MAH",
+        "code": "34704"
+      }, {
+        "name": "FETİH MAH",
+        "code": "34704"
+      }, {
+        "name": "ÖRNEK MAH",
+        "code": "34704"
+      }]
+    }, {
+      "name": "YENİÇAMLICA",
+      "neighborhoods": [{
+        "name": "MEVLANA MAH",
+        "code": "34779"
+      }, {
+        "name": "MİMAR SİNAN MAH",
+        "code": "34779"
+      }, {
+        "name": "YENİ ÇAMLICA MAH",
+        "code": "34779"
+      }, {
+        "name": "YENİŞEHİR MAH",
+        "code": "34779"
+      }]
+    }, {
+      "name": "YENİSAHRA",
+      "neighborhoods": [{
+        "name": "BARBAROS MAH",
+        "code": "34746"
+      }, {
+        "name": "YENİSAHRA MAH",
+        "code": "34746"
+      }]
+    }]
+  }, {
+    "name": "AVCILAR",
+    "districts": [{
+      "name": "AMBARLI",
+      "neighborhoods": [{
+        "name": "AMBARLI MAH",
+        "code": "34315"
+      }, {
+        "name": "DENİZKÖŞKLER MAH",
+        "code": "34315"
+      }]
+    }, {
+      "name": "AVCILAR",
+      "neighborhoods": [{
+        "name": "CİHANGİR MAH",
+        "code": "34310"
+      }, {
+        "name": "MERKEZ MAH",
+        "code": "34310"
+      }]
+    }, {
+      "name": "FİRUZKÖY",
+      "neighborhoods": [{
+        "name": "FİRUZKÖY MAH",
+        "code": "34325"
+      }, {
+        "name": "YEŞİLKENT MAH",
+        "code": "34325"
+      }]
+    }, {
+      "name": "GÜMÜŞPALA",
+      "neighborhoods": [{
+        "name": "GÜMÜŞPALA MAH",
+        "code": "34320"
+      }, {
+        "name": "MUSTAFA KEMALPAŞA MAH",
+        "code": "34320"
+      }, {
+        "name": "TAHTAKALE MAH",
+        "code": "34320"
+      }, {
+        "name": "ÜNİVERSİTE MAH",
+        "code": "34320"
+      }]
+    }]
+  }, {
+    "name": "BAĞCILAR",
+    "districts": [{
+      "name": "BAĞCILAR",
+      "neighborhoods": [{
+        "name": "BARBAROS MAH",
+        "code": "34200"
+      }, {
+        "name": "ÇINAR MAH",
+        "code": "34200"
+      }, {
+        "name": "FEVZİ ÇAKMAK MAH",
+        "code": "34200"
+      }, {
+        "name": "İNÖNÜ MAH",
+        "code": "34200"
+      }, {
+        "name": "KAZIM KARABEKİR MAH",
+        "code": "34200"
+      }, {
+        "name": "MERKEZ MAH",
+        "code": "34200"
+      }, {
+        "name": "SANCAKTEPE MAH",
+        "code": "34200"
+      }, {
+        "name": "YAVUZ SELİM MAH",
+        "code": "34200"
+      }, {
+        "name": "YENİGÜN MAH",
+        "code": "34200"
+      }, {
+        "name": "YILDIZTEPE MAH",
+        "code": "34200"
+      }]
+    }, {
+      "name": "GÜNEŞLİ",
+      "neighborhoods": [{
+        "name": "15 TEMMUZ MAH",
+        "code": "34212"
+      }, {
+        "name": "BAĞLAR MAH",
+        "code": "34212"
+      }, {
+        "name": "GÜNEŞLİ MAH",
+        "code": "34212"
+      }, {
+        "name": "HÜRRİYET MAH",
+        "code": "34212"
+      }, {
+        "name": "KİRAZLI MAH",
+        "code": "34212"
+      }, {
+        "name": "YENİMAHALLE MAH",
+        "code": "34212"
+      }]
+    }, {
+      "name": "MAHMUTBEY",
+      "neighborhoods": [{
+        "name": "100. YIL MAH",
+        "code": "34218"
+      }, {
+        "name": "DEMİRKAPI MAH",
+        "code": "34218"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34218"
+      }, {
+        "name": "GÖZTEPE MAH",
+        "code": "34218"
+      }, {
+        "name": "KEMALPAŞA MAH",
+        "code": "34218"
+      }, {
+        "name": "MAHMUTBEY MAH",
+        "code": "34218"
+      }]
+    }]
+  }, {
+    "name": "BAHÇELİEVLER",
+    "districts": [{
+      "name": "BAHÇELİEVLER",
+      "neighborhoods": [{
+        "name": "BAHÇELİEVLER MAH",
+        "code": "34180"
+      }, {
+        "name": "CUMHURİYET MAH",
+        "code": "34180"
+      }, {
+        "name": "SİYAVUŞPAŞA MAH",
+        "code": "34180"
+      }, {
+        "name": "SOĞANLI MAH",
+        "code": "34180"
+      }]
+    }, {
+      "name": "ŞİRİNEVLER",
+      "neighborhoods": [{
+        "name": "HÜRRİYET MAH",
+        "code": "34188"
+      }, {
+        "name": "KOCASİNAN MERKEZ MAH",
+        "code": "34188"
+      }, {
+        "name": "ŞİRİNEVLER MAH",
+        "code": "34188"
+      }]
+    }, {
+      "name": "YENİBOSNA",
+      "neighborhoods": [{
+        "name": "ÇOBANÇEŞME MAH",
+        "code": "34197"
+      }, {
+        "name": "FEVZİ ÇAKMAK MAH",
+        "code": "34197"
+      }, {
+        "name": "YENİBOSNA MERKEZ MAH",
+        "code": "34197"
+      }, {
+        "name": "ZAFER MAH",
+        "code": "34197"
+      }]
+    }]
+  }, {
+    "name": "BAKIRKÖY",
+    "districts": [{
+      "name": "ATAKÖY",
+      "neighborhoods": [{
+        "name": "ATAKÖY 1. KISIM MAH",
+        "code": "34158"
+      }, {
+        "name": "ATAKÖY 2-5-6. KISIM MAH",
+        "code": "34158"
+      }, {
+        "name": "ATAKÖY 3-4-11. KISIM MAH",
+        "code": "34158"
+      }, {
+        "name": "ATAKÖY 7-8-9-10. KISIM MAH",
+        "code": "34158"
+      }]
+    }, {
+      "name": "CEVİZLİK",
+      "neighborhoods": [{
+        "name": "CEVİZLİK MAH",
+        "code": "34142"
+      }, {
+        "name": "SAKIZAĞACI MAH",
+        "code": "34142"
+      }, {
+        "name": "YENİMAHALLE MAH",
+        "code": "34142"
+      }]
+    }, {
+      "name": "FLORYA",
+      "neighborhoods": [{
+        "name": "BASINKÖY MAH",
+        "code": "34153"
+      }, {
+        "name": "ŞENLİKKÖY MAH",
+        "code": "34153"
+      }]
+    }, {
+      "name": "KARTALTEPE",
+      "neighborhoods": [{
+        "name": "KARTALTEPE MAH",
+        "code": "34145"
+      }]
+    }, {
+      "name": "OSMANİYE",
+      "neighborhoods": [{
+        "name": "OSMANİYE MAH",
+        "code": "34146"
+      }]
+    }, {
+      "name": "YEŞİLKÖY",
+      "neighborhoods": [{
+        "name": "YEŞİLKÖY MAH",
+        "code": "34149"
+      }, {
+        "name": "YEŞİLKÖY SB MAH",
+        "code": "34149"
+      }, {
+        "name": "YEŞİLYURT MAH",
+        "code": "34149"
+      }]
+    }, {
+      "name": "ZEYTİNLİK",
+      "neighborhoods": [{
+        "name": "ZEYTİNLİK MAH",
+        "code": "34140"
+      }]
+    }, {
+      "name": "ZUHURATBABA",
+      "neighborhoods": [{
+        "name": "ZUHURATBABA MAH",
+        "code": "34147"
+      }]
+    }]
+  }, {
+    "name": "BAŞAKŞEHİR",
+    "districts": [{
+      "name": "ALTINŞEHİR",
+      "neighborhoods": [{
+        "name": "ALTINŞEHİR MAH",
+        "code": "34494"
+      }, {
+        "name": "GÜVERCİNTEPE MAH",
+        "code": "34494"
+      }, {
+        "name": "KAYABAŞI MAH",
+        "code": "34494"
+      }, {
+        "name": "ŞAHİNTEPE MAH",
+        "code": "34494"
+      }]
+    }, {
+      "name": "BAHÇEŞEHİR",
+      "neighborhoods": [{
+        "name": "BAHÇEŞEHİR 1. KISIM MAH",
+        "code": "34488"
+      }, {
+        "name": "BAHÇEŞEHİR 2. KISIM MAH",
+        "code": "34488"
+      }]
+    }, {
+      "name": "BAŞAKŞEHİR",
+      "neighborhoods": [{
+        "name": "BAŞAK MAH",
+        "code": "34480"
+      }, {
+        "name": "BAŞAKŞEHİR MAH",
+        "code": "34480"
+      }]
+    }, {
+      "name": "İKİTELLİ",
+      "neighborhoods": [{
+        "name": "İKİTELLİ OSB MAH",
+        "code": "34490"
+      }, {
+        "name": "ZİYA GÖKALP MAH",
+        "code": "34490"
+      }]
+    }, {
+      "name": "ŞAMLAR",
+      "neighborhoods": [{
+        "name": "ŞAMLAR MAH",
+        "code": "34492"
+      }]
+    }]
+  }, {
+    "name": "BAYRAMPAŞA",
+    "districts": [{
+      "name": "ALTINTEPSİ",
+      "neighborhoods": [{
+        "name": "ALTINTEPSİ MAH",
+        "code": "34035"
+      }, {
+        "name": "TERAZİDERE MAH",
+        "code": "34035"
+      }, {
+        "name": "VATAN MAH",
+        "code": "34035"
+      }]
+    }, {
+      "name": "MURATPAŞA",
+      "neighborhoods": [{
+        "name": "İSMET PAŞA MAH",
+        "code": "34040"
+      }, {
+        "name": "KARTALTEPE MAH",
+        "code": "34040"
+      }, {
+        "name": "MURATPAŞA MAH",
+        "code": "34040"
+      }]
+    }, {
+      "name": "NUMUNEBAĞ",
+      "neighborhoods": [{
+        "name": "ORTA MAH",
+        "code": "34030"
+      }, {
+        "name": "YENİDOĞAN MAH",
+        "code": "34030"
+      }]
+    }, {
+      "name": "YILDIRIM",
+      "neighborhoods": [{
+        "name": "CEVATPAŞA MAH",
+        "code": "34045"
+      }, {
+        "name": "KOCATEPE MAH",
+        "code": "34045"
+      }, {
+        "name": "YILDIRIM MAH",
+        "code": "34045"
+      }]
+    }]
+  }, {
+    "name": "BEŞİKTAŞ",
+    "districts": [{
+      "name": "ABBASAĞA",
+      "neighborhoods": [{
+        "name": "ABBASAĞA MAH",
+        "code": "34022"
+      }, {
+        "name": "CİHANNÜMA MAH",
+        "code": "34022"
+      }, {
+        "name": "SİNANPAŞA MAH",
+        "code": "34022"
+      }]
+    }, {
+      "name": "AKATLAR",
+      "neighborhoods": [{
+        "name": "AKAT MAH",
+        "code": "34335"
+      }]
+    }, {
+      "name": "ARNAVUTKÖY",
+      "neighborhoods": [{
+        "name": "ARNAVUTKÖY MAH",
+        "code": "34345"
+      }, {
+        "name": "KURUÇEŞME MAH",
+        "code": "34345"
+      }]
+    }, {
+      "name": "BEBEK",
+      "neighborhoods": [{
+        "name": "BEBEK MAH",
+        "code": "34342"
+      }]
+    }, {
+      "name": "ETİLER",
+      "neighborhoods": [{
+        "name": "ETİLER MAH",
+        "code": "34337"
+      }]
+    }, {
+      "name": "GAYRETTEPE",
+      "neighborhoods": [{
+        "name": "BALMUMCU MAH",
+        "code": "34349"
+      }, {
+        "name": "DİKİLİTAŞ MAH",
+        "code": "34349"
+      }, {
+        "name": "GAYRETTEPE MAH",
+        "code": "34349"
+      }, {
+        "name": "YILDIZ MAH",
+        "code": "34349"
+      }]
+    }, {
+      "name": "LEVAZIM",
+      "neighborhoods": [{
+        "name": "KÜLTÜR MAH",
+        "code": "34340"
+      }, {
+        "name": "LEVAZIM MAH",
+        "code": "34340"
+      }, {
+        "name": "NİSBETİYE MAH",
+        "code": "34340"
+      }, {
+        "name": "ULUS MAH",
+        "code": "34340"
+      }]
+    }, {
+      "name": "LEVENT",
+      "neighborhoods": [{
+        "name": "KONAKLAR MAH",
+        "code": "34330"
+      }, {
+        "name": "LEVENT MAH",
+        "code": "34330"
+      }]
+    }, {
+      "name": "ORTAKÖY",
+      "neighborhoods": [{
+        "name": "MECİDİYE MAH",
+        "code": "34347"
+      }, {
+        "name": "ORTAKÖY MAH",
+        "code": "34347"
+      }]
+    }, {
+      "name": "TÜRKALİ",
+      "neighborhoods": [{
+        "name": "MURADİYE MAH",
+        "code": "34357"
+      }, {
+        "name": "TÜRKALİ MAH",
+        "code": "34357"
+      }, {
+        "name": "VİŞNEZADE MAH",
+        "code": "34357"
+      }]
+    }]
+  }, {
+    "name": "BEYKOZ",
+    "districts": [{
+      "name": "ANADOLUHİSARI",
+      "neighborhoods": [{
+        "name": "ANADOLU HİSARI MAH",
+        "code": "34810"
+      }, {
+        "name": "KANLICA MAH",
+        "code": "34810"
+      }, {
+        "name": "KAVACIK MAH",
+        "code": "34810"
+      }]
+    }, {
+      "name": "BEYKOZ",
+      "neighborhoods": [{
+        "name": "GÜMÜŞSUYU MAH",
+        "code": "34820"
+      }, {
+        "name": "MERKEZ MAH",
+        "code": "34820"
+      }, {
+        "name": "YALIKÖY MAH",
+        "code": "34820"
+      }]
+    }, {
+      "name": "ÇAVUŞBAŞI",
+      "neighborhoods": [{
+        "name": "BAKLACI MAH",
+        "code": "34830"
+      }, {
+        "name": "ÇENGELDERE MAH",
+        "code": "34830"
+      }, {
+        "name": "ÇİFTLİK MAH",
+        "code": "34830"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34830"
+      }, {
+        "name": "YAVUZ SELİM MAH",
+        "code": "34830"
+      }]
+    }, {
+      "name": "ÇUBUKLU",
+      "neighborhoods": [{
+        "name": "ÇUBUKLU MAH",
+        "code": "34805"
+      }, {
+        "name": "RÜZGARLIBAHÇE MAH",
+        "code": "34805"
+      }]
+    }, {
+      "name": "GÖKSU",
+      "neighborhoods": [{
+        "name": "GÖKSU MAH",
+        "code": "34815"
+      }, {
+        "name": "GÖZTEPE MAH",
+        "code": "34815"
+      }, {
+        "name": "YENİ MAHALLE MAH",
+        "code": "34815"
+      }]
+    }, {
+      "name": "PAŞABAHÇE",
+      "neighborhoods": [{
+        "name": "ACARLAR MAH",
+        "code": "34800"
+      }, {
+        "name": "ÇİĞDEM MAH",
+        "code": "34800"
+      }, {
+        "name": "İNCİRKÖY MAH",
+        "code": "34800"
+      }, {
+        "name": "PAŞABAHÇE MAH",
+        "code": "34800"
+      }, {
+        "name": "SOĞUKSU MAH",
+        "code": "34800"
+      }]
+    }, {
+      "name": "POLONEZKÖY",
+      "neighborhoods": [{
+        "name": "ALİBAHADIR MAH",
+        "code": "34829"
+      }, {
+        "name": "ANADOLUFENERİ MAH",
+        "code": "34829"
+      }, {
+        "name": "BOZHANE MAH",
+        "code": "34829"
+      }, {
+        "name": "CUMHURİYET MAH",
+        "code": "34829"
+      }, {
+        "name": "GÖLLÜ MAH",
+        "code": "34829"
+      }, {
+        "name": "İSHAKLI MAH",
+        "code": "34829"
+      }, {
+        "name": "KAYNARCA MAH",
+        "code": "34829"
+      }, {
+        "name": "KILIÇLI MAH",
+        "code": "34829"
+      }, {
+        "name": "MAHMUTŞEVKETPAŞA MAH",
+        "code": "34829"
+      }, {
+        "name": "ÖĞÜMCE MAH",
+        "code": "34829"
+      }, {
+        "name": "PAŞAMANDIRA MAH",
+        "code": "34829"
+      }, {
+        "name": "POLONEZKÖY MAH",
+        "code": "34829"
+      }, {
+        "name": "POYRAZKÖY MAH",
+        "code": "34829"
+      }, {
+        "name": "RİVA MAH",
+        "code": "34829"
+      }, {
+        "name": "ZERZAVATÇI MAH",
+        "code": "34829"
+      }]
+    }, {
+      "name": "TOKATKÖY",
+      "neighborhoods": [{
+        "name": "AKBABA MAH",
+        "code": "34825"
+      }, {
+        "name": "ANADOLU KAVAĞI MAH",
+        "code": "34825"
+      }, {
+        "name": "ÇAMLIBAHÇE MAH",
+        "code": "34825"
+      }, {
+        "name": "DERESEKİ MAH",
+        "code": "34825"
+      }, {
+        "name": "ELMALI MAH",
+        "code": "34825"
+      }, {
+        "name": "GÖRELE MAH",
+        "code": "34825"
+      }, {
+        "name": "ORTAÇEŞME MAH",
+        "code": "34825"
+      }, {
+        "name": "ÖRNEKKÖY MAH",
+        "code": "34825"
+      }, {
+        "name": "TOKATKÖY MAH",
+        "code": "34825"
+      }]
+    }]
+  }, {
+    "name": "BEYLİKDÜZÜ",
+    "districts": [{
+      "name": "BEYLİKDÜZÜ",
+      "neighborhoods": [{
+        "name": "BARIŞ MAH",
+        "code": "34520"
+      }, {
+        "name": "BÜYÜKŞEHİR MAH",
+        "code": "34520"
+      }, {
+        "name": "CUMHURİYET MAH",
+        "code": "34520"
+      }, {
+        "name": "KAVAKLI MAH",
+        "code": "34520"
+      }]
+    }, {
+      "name": "GÜRPINAR",
+      "neighborhoods": [{
+        "name": "ADNAN KAHVECİ MAH",
+        "code": "34528"
+      }, {
+        "name": "DEREAĞZI MAH",
+        "code": "34528"
+      }, {
+        "name": "GÜRPINAR MAH",
+        "code": "34528"
+      }]
+    }, {
+      "name": "YAKUPLU",
+      "neighborhoods": [{
+        "name": "BEYLİKDÜZÜOSB MAH",
+        "code": "34524"
+      }, {
+        "name": "MARMARA MAH",
+        "code": "34524"
+      }, {
+        "name": "SAHİL MAH",
+        "code": "34524"
+      }, {
+        "name": "YAKUPLU MAH",
+        "code": "34524"
+      }]
+    }]
+  }, {
+    "name": "BEYOĞLU",
+    "districts": [{
+      "name": "ARAPCAMİ",
+      "neighborhoods": [{
+        "name": "ARAP CAMİ MAH",
+        "code": "34421"
+      }, {
+        "name": "BEREKETZADE MAH",
+        "code": "34421"
+      }, {
+        "name": "EMEKYEMEZ MAH",
+        "code": "34421"
+      }, {
+        "name": "ŞAHKULU MAH",
+        "code": "34421"
+      }]
+    }, {
+      "name": "CİHANGİR",
+      "neighborhoods": [{
+        "name": "CİHANGİR MAH",
+        "code": "34433"
+      }, {
+        "name": "KATİPMUSTAFA ÇELEBİ MAH",
+        "code": "34433"
+      }, {
+        "name": "KILIÇALİ PAŞA MAH",
+        "code": "34433"
+      }, {
+        "name": "KULOĞLU MAH",
+        "code": "34433"
+      }, {
+        "name": "TOMTOM MAH",
+        "code": "34433"
+      }]
+    }, {
+      "name": "HALICIOĞLU",
+      "neighborhoods": [{
+        "name": "FETİHTEPE MAH",
+        "code": "34445"
+      }, {
+        "name": "HALICIOĞLU MAH",
+        "code": "34445"
+      }, {
+        "name": "KEÇECİ PİRİ MAH",
+        "code": "34445"
+      }, {
+        "name": "ÖRNEKTEPE MAH",
+        "code": "34445"
+      }, {
+        "name": "PİRİPAŞA MAH",
+        "code": "34445"
+      }, {
+        "name": "SÜTLÜCE MAH",
+        "code": "34445"
+      }]
+    }, {
+      "name": "İSTİKLAL",
+      "neighborhoods": [{
+        "name": "ASMALI MESCİT MAH",
+        "code": "34430"
+      }, {
+        "name": "ÇATMA MESCİT MAH",
+        "code": "34430"
+      }, {
+        "name": "EVLİYA ÇELEBİ MAH",
+        "code": "34430"
+      }]
+    }, {
+      "name": "KASIMPAŞA",
+      "neighborhoods": [{
+        "name": "BEDRETTİN MAH",
+        "code": "34440"
+      }, {
+        "name": "CAMİİKEBİR MAH",
+        "code": "34440"
+      }, {
+        "name": "HACIAHMET MAH",
+        "code": "34440"
+      }, {
+        "name": "İSTİKLAL MAH",
+        "code": "34440"
+      }, {
+        "name": "KADIMEHMET EFENDİ MAH",
+        "code": "34440"
+      }, {
+        "name": "KAPTANPAŞA MAH",
+        "code": "34440"
+      }, {
+        "name": "KULAKSIZ MAH",
+        "code": "34440"
+      }, {
+        "name": "KÜÇÜK PİYALE MAH",
+        "code": "34440"
+      }, {
+        "name": "PİYALEPAŞA MAH",
+        "code": "34440"
+      }, {
+        "name": "YAHYA KAHYA MAH",
+        "code": "34440"
+      }]
+    }, {
+      "name": "KEMANKEŞ",
+      "neighborhoods": [{
+        "name": "FİRUZAĞA MAH",
+        "code": "34425"
+      }, {
+        "name": "HACIMİMİ MAH",
+        "code": "34425"
+      }, {
+        "name": "KEMANKEŞ KARAMUSTAFAPAŞA MAH",
+        "code": "34425"
+      }, {
+        "name": "MÜEYYETZADE MAH",
+        "code": "34425"
+      }]
+    }, {
+      "name": "PÜRTELAŞ",
+      "neighborhoods": [{
+        "name": "ÖMER AVNİ MAH",
+        "code": "34427"
+      }, {
+        "name": "PÜRTELAŞ HASAN EFENDİ MAH",
+        "code": "34427"
+      }]
+    }, {
+      "name": "TAKSİM",
+      "neighborhoods": [{
+        "name": "GÜMÜŞSUYU MAH",
+        "code": "34437"
+      }, {
+        "name": "KOCATEPE MAH",
+        "code": "34437"
+      }]
+    }, {
+      "name": "TARLABAŞI",
+      "neighborhoods": [{
+        "name": "BOSTAN MAH",
+        "code": "34435"
+      }, {
+        "name": "BÜLBÜL MAH",
+        "code": "34435"
+      }, {
+        "name": "ÇUKUR MAH",
+        "code": "34435"
+      }, {
+        "name": "HÜSEYİNAĞA MAH",
+        "code": "34435"
+      }, {
+        "name": "KALYONCU KULLUĞU MAH",
+        "code": "34435"
+      }, {
+        "name": "KAMER HATUN MAH",
+        "code": "34435"
+      }, {
+        "name": "SURURİ MEHMET EFENDİ MAH",
+        "code": "34435"
+      }, {
+        "name": "ŞEHİT MUHTAR MAH",
+        "code": "34435"
+      }, {
+        "name": "YENİŞEHİR MAH",
+        "code": "34435"
+      }]
+    }]
+  }, {
+    "name": "BÜYÜKÇEKMECE",
+    "districts": [{
+      "name": "BÜYÜKÇEKMECE",
+      "neighborhoods": [{
+        "name": "19 MAYIS MAH",
+        "code": "34500"
+      }, {
+        "name": "ALKENT 2000 MAH",
+        "code": "34500"
+      }, {
+        "name": "ATATÜRK MAH",
+        "code": "34500"
+      }, {
+        "name": "CUMHURİYET MAH",
+        "code": "34500"
+      }, {
+        "name": "ÇAKMAKLI MAH",
+        "code": "34500"
+      }, {
+        "name": "DİZDARİYE MAH",
+        "code": "34500"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34500"
+      }, {
+        "name": "KARAAĞAÇ MAH",
+        "code": "34500"
+      }, {
+        "name": "PINARTEPE MAH",
+        "code": "34500"
+      }]
+    }, {
+      "name": "CELALİYE",
+      "neighborhoods": [{
+        "name": "CELALİYE MAH",
+        "code": "34534"
+      }, {
+        "name": "KAMİLOBA MAH",
+        "code": "34534"
+      }]
+    }, {
+      "name": "KUMBURGAZ",
+      "neighborhoods": [{
+        "name": "BAHÇELİEVLER MAH",
+        "code": "34530"
+      }, {
+        "name": "GÜZELCE MAH",
+        "code": "34530"
+      }, {
+        "name": "KUMBURGAZ MAH",
+        "code": "34530"
+      }, {
+        "name": "YENİMAHALLE MAH",
+        "code": "34530"
+      }]
+    }, {
+      "name": "MİMARSİNAN",
+      "neighborhoods": [{
+        "name": "EKİNOBA MAH",
+        "code": "34535"
+      }, {
+        "name": "MİMAROBA MAH",
+        "code": "34535"
+      }, {
+        "name": "MİMARSİNAN MAH",
+        "code": "34535"
+      }, {
+        "name": "MURAT ÇESME MAH",
+        "code": "34535"
+      }, {
+        "name": "SİNANOBA MAH",
+        "code": "34535"
+      }]
+    }, {
+      "name": "TEPECİK",
+      "neighborhoods": [{
+        "name": "AHMEDİYE MAH",
+        "code": "34537"
+      }, {
+        "name": "HÜRRİYET MAH",
+        "code": "34537"
+      }, {
+        "name": "TÜRKOBA MAH",
+        "code": "34537"
+      }, {
+        "name": "ULUS MAH",
+        "code": "34537"
+      }]
+    }]
+  }, {
+    "name": "ÇATALCA",
+    "districts": [{
+      "name": "ÇATALCA",
+      "neighborhoods": [{
+        "name": "AKALAN MAH",
+        "code": "34540"
+      }, {
+        "name": "ATATÜRK MAH",
+        "code": "34540"
+      }, {
+        "name": "AYDINLAR MAH",
+        "code": "34540"
+      }, {
+        "name": "BAHŞAYİŞ MAH",
+        "code": "34540"
+      }, {
+        "name": "BAŞAK MAH",
+        "code": "34540"
+      }, {
+        "name": "BELGRAT MAH",
+        "code": "34540"
+      }, {
+        "name": "CELEPKÖY MAH",
+        "code": "34540"
+      }, {
+        "name": "ÇAKIL MAH",
+        "code": "34540"
+      }, {
+        "name": "ÇANAKÇA MAH",
+        "code": "34540"
+      }, {
+        "name": "ÇİFTLİKKÖY MAH",
+        "code": "34540"
+      }, {
+        "name": "DAĞYENİCE MAH",
+        "code": "34540"
+      }, {
+        "name": "ELBASAN MAH",
+        "code": "34540"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34540"
+      }, {
+        "name": "FERHATPAŞA MAH",
+        "code": "34540"
+      }, {
+        "name": "FERHATPAŞA SB MAH",
+        "code": "34540"
+      }, {
+        "name": "GÖKÇEALİ MAH",
+        "code": "34540"
+      }, {
+        "name": "GÜMÜŞPINAR MAH",
+        "code": "34540"
+      }, {
+        "name": "HALLAÇLI MAH",
+        "code": "34540"
+      }, {
+        "name": "HİSARBEYLİ MAH",
+        "code": "34540"
+      }, {
+        "name": "İHSANİYE MAH",
+        "code": "34540"
+      }, {
+        "name": "İNCEĞİZ MAH",
+        "code": "34540"
+      }, {
+        "name": "İZZETTİN MAH",
+        "code": "34540"
+      }, {
+        "name": "KABAKÇA MAH",
+        "code": "34540"
+      }, {
+        "name": "KALEİÇİ MAH",
+        "code": "34540"
+      }, {
+        "name": "KALFA MAH",
+        "code": "34540"
+      }, {
+        "name": "KARACAKÖY MERKEZ MAH",
+        "code": "34540"
+      }, {
+        "name": "KARAMANDERE MAH",
+        "code": "34540"
+      }, {
+        "name": "KESTANELİK MAH",
+        "code": "34540"
+      }, {
+        "name": "KIZILCAALİ MAH",
+        "code": "34540"
+      }, {
+        "name": "MURATBEY MERKEZ MAH",
+        "code": "34540"
+      }, {
+        "name": "NAKKAŞ MAH",
+        "code": "34540"
+      }, {
+        "name": "OKLALI MAH",
+        "code": "34540"
+      }, {
+        "name": "ORMANLI MAH",
+        "code": "34540"
+      }, {
+        "name": "OVAYENİCE MAH",
+        "code": "34540"
+      }, {
+        "name": "ÖRCÜNLÜ MAH",
+        "code": "34540"
+      }, {
+        "name": "ÖRENCİK MAH",
+        "code": "34540"
+      }, {
+        "name": "SUBAŞI MAH",
+        "code": "34540"
+      }, {
+        "name": "YALIKÖY MAH",
+        "code": "34540"
+      }, {
+        "name": "YAYLACIK MAH",
+        "code": "34540"
+      }, {
+        "name": "YAZLIK MAH",
+        "code": "34540"
+      }]
+    }]
+  }, {
+    "name": "ÇEKMEKÖY",
+    "districts": [{
+      "name": "ALEMDAĞ",
+      "neighborhoods": [{
+        "name": "ALEMDAĞ MAH",
+        "code": "34794"
+      }, {
+        "name": "ÇATALMEŞE MAH",
+        "code": "34794"
+      }, {
+        "name": "EKŞİOĞLU MAH",
+        "code": "34794"
+      }, {
+        "name": "NİŞANTEPE MAH",
+        "code": "34794"
+      }]
+    }, {
+      "name": "ÇEKMEKÖY",
+      "neighborhoods": [{
+        "name": "ÇAMLIK MAH",
+        "code": "34782"
+      }, {
+        "name": "HAMİDİYE MAH",
+        "code": "34782"
+      }, {
+        "name": "MEHMET AKİF MAH",
+        "code": "34782"
+      }, {
+        "name": "MERKEZ MAH",
+        "code": "34782"
+      }, {
+        "name": "MİMAR SİNAN MAH",
+        "code": "34782"
+      }]
+    }, {
+      "name": "ÖMERLİ",
+      "neighborhoods": [{
+        "name": "HÜSEYİNLİ MAH",
+        "code": "34799"
+      }, {
+        "name": "KOÇULLU MAH",
+        "code": "34799"
+      }, {
+        "name": "ÖMERLİ MAH",
+        "code": "34799"
+      }, {
+        "name": "REŞADİYE MAH",
+        "code": "34799"
+      }, {
+        "name": "SIRAPINAR MAH",
+        "code": "34799"
+      }]
+    }, {
+      "name": "TAŞDELEN",
+      "neighborhoods": [{
+        "name": "AYDINLAR MAH",
+        "code": "34788"
+      }, {
+        "name": "CUMHURİYET MAH",
+        "code": "34788"
+      }, {
+        "name": "GÜNGÖREN MAH",
+        "code": "34788"
+      }, {
+        "name": "KİRAZLIDERE MAH",
+        "code": "34788"
+      }, {
+        "name": "SOĞUKPINAR MAH",
+        "code": "34788"
+      }, {
+        "name": "SULTANÇİFTLİĞİ MAH",
+        "code": "34788"
+      }, {
+        "name": "TAŞDELEN MAH",
+        "code": "34788"
+      }]
+    }]
+  }, {
+    "name": "ESENLER",
+    "districts": [{
+      "name": "ATIŞALANI",
+      "neighborhoods": [{
+        "name": "15 TEMMUZ MAH",
+        "code": "34230"
+      }, {
+        "name": "BİRLİK MAH",
+        "code": "34230"
+      }, {
+        "name": "HAVAALANI MAH",
+        "code": "34230"
+      }, {
+        "name": "KEMER MAH",
+        "code": "34230"
+      }]
+    }, {
+      "name": "ESENLER",
+      "neighborhoods": [{
+        "name": "ÇİFTE HAVUZLAR MAH",
+        "code": "34220"
+      }, {
+        "name": "DAVUTPAŞA MAH",
+        "code": "34220"
+      }, {
+        "name": "FEVZİ ÇAKMAK MAH",
+        "code": "34220"
+      }, {
+        "name": "MİMAR SİNAN MAH",
+        "code": "34220"
+      }, {
+        "name": "NAMIK KEMAL MAH",
+        "code": "34220"
+      }, {
+        "name": "NİNE HATUN MAH",
+        "code": "34220"
+      }, {
+        "name": "YAVUZ SELİM MAH",
+        "code": "34220"
+      }]
+    }, {
+      "name": "KARABAYIR",
+      "neighborhoods": [{
+        "name": "FATİH MAH",
+        "code": "34225"
+      }, {
+        "name": "KAZIM KARABEKİR MAH",
+        "code": "34225"
+      }, {
+        "name": "MENDERES MAH",
+        "code": "34225"
+      }, {
+        "name": "TUNA MAH",
+        "code": "34225"
+      }]
+    }, {
+      "name": "SANAYİ",
+      "neighborhoods": [{
+        "name": "ORUÇREİS MAH",
+        "code": "34235"
+      }, {
+        "name": "TURGUT REİS MAH",
+        "code": "34235"
+      }]
+    }]
+  }, {
+    "name": "ESENYURT",
+    "districts": [{
+      "name": "ESENYURT",
+      "neighborhoods": [{
+        "name": "BAĞLARÇEŞME MAH",
+        "code": "34517"
+      }, {
+        "name": "ÇINAR MAH",
+        "code": "34517"
+      }, {
+        "name": "ÖRNEK MAH",
+        "code": "34517"
+      }, {
+        "name": "PINAR MAH",
+        "code": "34517"
+      }, {
+        "name": "SELAHADDİN EYYUBİ MAH",
+        "code": "34517"
+      }]
+    }, {
+      "name": "İNCİRTEPE",
+      "neighborhoods": [{
+        "name": "AKŞEMSEDDİN MAH",
+        "code": "34510"
+      }, {
+        "name": "ARDIÇLI MAH",
+        "code": "34510"
+      }, {
+        "name": "BALIKYOLU MAH",
+        "code": "34510"
+      }, {
+        "name": "İNCİRTEPE MAH",
+        "code": "34510"
+      }, {
+        "name": "İNÖNÜ MAH",
+        "code": "34510"
+      }, {
+        "name": "SULTANİYE MAH",
+        "code": "34510"
+      }, {
+        "name": "SÜLEYMANİYE MAH",
+        "code": "34510"
+      }, {
+        "name": "YENİKENT MAH",
+        "code": "34510"
+      }, {
+        "name": "YUNUS EMRE MAH",
+        "code": "34510"
+      }]
+    }, {
+      "name": "KIRAÇ",
+      "neighborhoods": [{
+        "name": "ATATÜRK MAH",
+        "code": "34522"
+      }, {
+        "name": "BARBAROS HAYRETTİN PAŞA MAH",
+        "code": "34522"
+      }, {
+        "name": "BATTALGAZİ MAH",
+        "code": "34522"
+      }, {
+        "name": "GÖKEVLER MAH",
+        "code": "34522"
+      }, {
+        "name": "HÜRRİYET MAH",
+        "code": "34522"
+      }, {
+        "name": "İSTİKLAL MAH",
+        "code": "34522"
+      }, {
+        "name": "NECİP FAZIL KISAKÜREK MAH",
+        "code": "34522"
+      }, {
+        "name": "ŞEHİTLER MAH",
+        "code": "34522"
+      }]
+    }, {
+      "name": "MEHTERÇEŞME",
+      "neighborhoods": [{
+        "name": "CUMHURİYET MAH",
+        "code": "34515"
+      }, {
+        "name": "GÜZELYURT MAH",
+        "code": "34515"
+      }, {
+        "name": "MEHMET AKİF ERSOY MAH",
+        "code": "34515"
+      }, {
+        "name": "MEHTERÇEŞME MAH",
+        "code": "34515"
+      }, {
+        "name": "MEVLANA MAH",
+        "code": "34515"
+      }, {
+        "name": "PİRİ REİS MAH",
+        "code": "34515"
+      }, {
+        "name": "YEŞİLKENT MAH",
+        "code": "34515"
+      }]
+    }, {
+      "name": "SAADETDERE",
+      "neighborhoods": [{
+        "name": "AKEVLER MAH",
+        "code": "34513"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34513"
+      }, {
+        "name": "NAMIK KEMAL MAH",
+        "code": "34513"
+      }, {
+        "name": "SAADETDERE MAH",
+        "code": "34513"
+      }, {
+        "name": "TALATPAŞA MAH",
+        "code": "34513"
+      }, {
+        "name": "TURGUT ÖZAL MAH",
+        "code": "34513"
+      }, {
+        "name": "ÜÇEVLER MAH",
+        "code": "34513"
+      }, {
+        "name": "ZAFER MAH",
+        "code": "34513"
+      }]
+    }, {
+      "name": "SANAYİ",
+      "neighborhoods": [{
+        "name": "AKÇABURGAZ MAH",
+        "code": "34538"
+      }, {
+        "name": "AŞIK VEYSEL MAH",
+        "code": "34538"
+      }, {
+        "name": "ESENKENT MAH",
+        "code": "34538"
+      }, {
+        "name": "KOZA MAH",
+        "code": "34538"
+      }, {
+        "name": "ORHAN GAZİ MAH",
+        "code": "34538"
+      }, {
+        "name": "OSMANGAZİ MAH",
+        "code": "34538"
+      }]
+    }]
+  }, {
+    "name": "EYÜPSULTAN",
+    "districts": [{
+      "name": "ALİBEYKÖY",
+      "neighborhoods": [{
+        "name": "5.LEVENT MAH",
+        "code": "34060"
+      }, {
+        "name": "ALİBEYKÖY MAH",
+        "code": "34060"
+      }, {
+        "name": "EMNİYETTEPE MAH",
+        "code": "34060"
+      }, {
+        "name": "GÜZELTEPE MAH",
+        "code": "34060"
+      }]
+    }, {
+      "name": "ÇIRÇIR",
+      "neighborhoods": [{
+        "name": "AKŞEMSETTİN MAH",
+        "code": "34070"
+      }, {
+        "name": "ÇIRÇIR MAH",
+        "code": "34070"
+      }]
+    }, {
+      "name": "EYÜP",
+      "neighborhoods": [{
+        "name": "DEFTERDAR MAH",
+        "code": "34050"
+      }, {
+        "name": "İSLAMBEY MAH",
+        "code": "34050"
+      }, {
+        "name": "MERKEZ MAH",
+        "code": "34050"
+      }, {
+        "name": "NİŞANCI MAH",
+        "code": "34050"
+      }, {
+        "name": "SAKARYA MAH",
+        "code": "34050"
+      }, {
+        "name": "SİLAHTARAĞA MAH",
+        "code": "34050"
+      }]
+    }, {
+      "name": "GÖKTÜRK",
+      "neighborhoods": [{
+        "name": "GÖKTÜRK MERKEZ MAH",
+        "code": "34077"
+      }]
+    }, {
+      "name": "IŞIKLAR",
+      "neighborhoods": [{
+        "name": "AĞAÇLI MAH",
+        "code": "34076"
+      }, {
+        "name": "AKPINAR MAH",
+        "code": "34076"
+      }, {
+        "name": "ÇİFTALAN MAH",
+        "code": "34076"
+      }, {
+        "name": "IŞIKLAR MAH",
+        "code": "34076"
+      }, {
+        "name": "İHSANİYE MAH",
+        "code": "34076"
+      }, {
+        "name": "ODAYERİ MAH",
+        "code": "34076"
+      }, {
+        "name": "PİRİNÇÇİ MAH",
+        "code": "34076"
+      }]
+    }, {
+      "name": "KEMERBURGAZ",
+      "neighborhoods": [{
+        "name": "MİMAR SİNAN MAH",
+        "code": "34075"
+      }, {
+        "name": "MİTHATPAŞA MAH",
+        "code": "34075"
+      }]
+    }, {
+      "name": "RAMİ",
+      "neighborhoods": [{
+        "name": "DÜĞMECİLER MAH",
+        "code": "34055"
+      }, {
+        "name": "RAMİ CUMA MAH",
+        "code": "34055"
+      }, {
+        "name": "RAMİ YENİ MAH",
+        "code": "34055"
+      }, {
+        "name": "TOPÇULAR MAH",
+        "code": "34055"
+      }]
+    }, {
+      "name": "YEŞİLPINAR",
+      "neighborhoods": [{
+        "name": "ESENTEPE MAH",
+        "code": "34065"
+      }, {
+        "name": "KARADOLAP MAH",
+        "code": "34065"
+      }, {
+        "name": "YEŞİLPINAR MAH",
+        "code": "34065"
+      }]
+    }]
+  }, {
+    "name": "FATİH",
+    "districts": [{
+      "name": "AKSARAY",
+      "neighborhoods": [{
+        "name": "AKSARAY MAH",
+        "code": "34096"
+      }, {
+        "name": "HASEKİ SULTAN MAH",
+        "code": "34096"
+      }]
+    }, {
+      "name": "BALAT",
+      "neighborhoods": [{
+        "name": "ATİKALİ MAH",
+        "code": "34087"
+      }, {
+        "name": "AYVANSARAY MAH",
+        "code": "34087"
+      }, {
+        "name": "BALAT MAH",
+        "code": "34087"
+      }, {
+        "name": "DERVİŞ ALİ MAH",
+        "code": "34087"
+      }]
+    }, {
+      "name": "BAYAZIT",
+      "neighborhoods": [{
+        "name": "BEYAZIT MAH",
+        "code": "34126"
+      }, {
+        "name": "EMİN SİNAN MAH",
+        "code": "34126"
+      }, {
+        "name": "MİMAR HAYRETTİN MAH",
+        "code": "34126"
+      }, {
+        "name": "ŞEHSUVAR BEY MAH",
+        "code": "34126"
+      }]
+    }, {
+      "name": "EMİNÖNÜ",
+      "neighborhoods": [{
+        "name": "ALEMDAR MAH",
+        "code": "34110"
+      }, {
+        "name": "HOCAPAŞA MAH",
+        "code": "34110"
+      }]
+    }, {
+      "name": "İSKENDERPAŞA",
+      "neighborhoods": [{
+        "name": "AKŞEMSETTİN MAH",
+        "code": "34080"
+      }, {
+        "name": "İSKENDERPAŞA MAH",
+        "code": "34080"
+      }]
+    }, {
+      "name": "KARAGÜMRÜK",
+      "neighborhoods": [{
+        "name": "HIRKA-İ ŞERİF MAH",
+        "code": "34091"
+      }, {
+        "name": "KARAGÜMRÜK MAH",
+        "code": "34091"
+      }]
+    }, {
+      "name": "KOCAMUSTAFAPAŞA",
+      "neighborhoods": [{
+        "name": "CERRAHPAŞA MAH",
+        "code": "34098"
+      }, {
+        "name": "KOCA MUSTAFAPAŞA MAH",
+        "code": "34098"
+      }, {
+        "name": "SEYYİD ÖMER MAH",
+        "code": "34098"
+      }]
+    }, {
+      "name": "KUMKAPI",
+      "neighborhoods": [{
+        "name": "KATİP KASIM MAH",
+        "code": "34130"
+      }, {
+        "name": "MESİHPAŞA MAH",
+        "code": "34130"
+      }, {
+        "name": "MİMAR KEMALETTİN MAH",
+        "code": "34130"
+      }, {
+        "name": "MUHSİNE HATUN MAH",
+        "code": "34130"
+      }, {
+        "name": "NİŞANCA MAH",
+        "code": "34130"
+      }, {
+        "name": "SARAÇ İSHAK MAH",
+        "code": "34130"
+      }]
+    }, {
+      "name": "MAHMUTPAŞA",
+      "neighborhoods": [{
+        "name": "MOLLA FENARİ MAH",
+        "code": "34120"
+      }, {
+        "name": "SURURİ MAH",
+        "code": "34120"
+      }, {
+        "name": "TAYA HATUN MAH",
+        "code": "34120"
+      }]
+    }, {
+      "name": "SİRKECİ",
+      "neighborhoods": [{
+        "name": "HOBYAR MAH",
+        "code": "34112"
+      }]
+    }, {
+      "name": "SULTANAHMET",
+      "neighborhoods": [{
+        "name": "BİNBİRDİREK MAH",
+        "code": "34122"
+      }, {
+        "name": "CANKURTARAN MAH",
+        "code": "34122"
+      }, {
+        "name": "KÜÇÜK AYASOFYA MAH",
+        "code": "34122"
+      }, {
+        "name": "SULTAN AHMET MAH",
+        "code": "34122"
+      }]
+    }, {
+      "name": "ŞEHREMİNİ",
+      "neighborhoods": [{
+        "name": "MEVLANAKAPI MAH",
+        "code": "34104"
+      }, {
+        "name": "ŞEHREMİNİ MAH",
+        "code": "34104"
+      }]
+    }, {
+      "name": "TAHTAKALE",
+      "neighborhoods": [{
+        "name": "MERCAN MAH",
+        "code": "34116"
+      }, {
+        "name": "RÜSTEMPAŞA MAH",
+        "code": "34116"
+      }, {
+        "name": "SÜLEYMANİYE MAH",
+        "code": "34116"
+      }, {
+        "name": "TAHTAKALE MAH",
+        "code": "34116"
+      }]
+    }, {
+      "name": "TOPKAPI",
+      "neighborhoods": [{
+        "name": "MOLLA GÜRANİ MAH",
+        "code": "34093"
+      }, {
+        "name": "TOPKAPI MAH",
+        "code": "34093"
+      }]
+    }, {
+      "name": "VEFA",
+      "neighborhoods": [{
+        "name": "BALABANAĞA MAH",
+        "code": "34134"
+      }, {
+        "name": "DEMİRTAŞ MAH",
+        "code": "34134"
+      }, {
+        "name": "HACI KADIN MAH",
+        "code": "34134"
+      }, {
+        "name": "HOCA GIYASETTİN MAH",
+        "code": "34134"
+      }, {
+        "name": "KALENDERHANE MAH",
+        "code": "34134"
+      }, {
+        "name": "KEMALPAŞA MAH",
+        "code": "34134"
+      }, {
+        "name": "MOLLA HÜSREV MAH",
+        "code": "34134"
+      }, {
+        "name": "SARIDEMİR MAH",
+        "code": "34134"
+      }, {
+        "name": "YAVUZ SİNAN MAH",
+        "code": "34134"
+      }]
+    }, {
+      "name": "YEDİKULE",
+      "neighborhoods": [{
+        "name": "SİLİVRİKAPI MAH",
+        "code": "34107"
+      }, {
+        "name": "SÜMBÜL EFENDİ MAH",
+        "code": "34107"
+      }, {
+        "name": "YEDİKULE MAH",
+        "code": "34107"
+      }]
+    }, {
+      "name": "ZEYREK",
+      "neighborhoods": [{
+        "name": "ALİ KUŞÇU MAH",
+        "code": "34083"
+      }, {
+        "name": "CİBALİ MAH",
+        "code": "34083"
+      }, {
+        "name": "YAVUZ SULTAN SELİM MAH",
+        "code": "34083"
+      }, {
+        "name": "ZEYREK MAH",
+        "code": "34083"
+      }]
+    }]
+  }, {
+    "name": "GAZİOSMANPAŞA",
+    "districts": [{
+      "name": "GAZİOSMANPAŞA",
+      "neighborhoods": [{
+        "name": "BAĞLARBAŞI MAH",
+        "code": "34245"
+      }, {
+        "name": "MERKEZ MAH",
+        "code": "34245"
+      }, {
+        "name": "SARIGÖL MAH",
+        "code": "34245"
+      }]
+    }, {
+      "name": "KÜÇÜKKÖY",
+      "neighborhoods": [{
+        "name": "BARBAROS HAYRETTİN PAŞA MAH",
+        "code": "34250"
+      }, {
+        "name": "HÜRRİYET MAH",
+        "code": "34250"
+      }, {
+        "name": "KARADENİZ MAH",
+        "code": "34250"
+      }, {
+        "name": "ŞEMSİPAŞA MAH",
+        "code": "34250"
+      }, {
+        "name": "YENİ MAHALLE MAH",
+        "code": "34250"
+      }]
+    }, {
+      "name": "MEVLANA",
+      "neighborhoods": [{
+        "name": "FEVZİ ÇAKMAK MAH",
+        "code": "34255"
+      }, {
+        "name": "KARAYOLLARI MAH",
+        "code": "34255"
+      }, {
+        "name": "KAZIM KARABEKİR MAH",
+        "code": "34255"
+      }, {
+        "name": "MEVLANA MAH",
+        "code": "34255"
+      }]
+    }, {
+      "name": "YILDIZTABYA",
+      "neighborhoods": [{
+        "name": "KARLITEPE MAH",
+        "code": "34240"
+      }, {
+        "name": "PAZARİÇİ MAH",
+        "code": "34240"
+      }, {
+        "name": "YENİDOĞAN MAH",
+        "code": "34240"
+      }, {
+        "name": "YILDIZTABYA MAH",
+        "code": "34240"
+      }]
+    }]
+  }, {
+    "name": "GÜNGÖREN",
+    "districts": [{
+      "name": "AKINCILAR",
+      "neighborhoods": [{
+        "name": "AKINCILAR MAH",
+        "code": "34160"
+      }, {
+        "name": "GÜVEN MAH",
+        "code": "34160"
+      }, {
+        "name": "HAZNEDAR MAH",
+        "code": "34160"
+      }, {
+        "name": "MAREŞAL ÇAKMAK MAH",
+        "code": "34160"
+      }]
+    }, {
+      "name": "GÜNGÖREN",
+      "neighborhoods": [{
+        "name": "GÜNEŞTEPE MAH",
+        "code": "34164"
+      }, {
+        "name": "MERKEZ MAH",
+        "code": "34164"
+      }]
+    }, {
+      "name": "SANAYİ",
+      "neighborhoods": [{
+        "name": "GENÇOSMAN MAH",
+        "code": "34165"
+      }, {
+        "name": "SANAYİ MAH",
+        "code": "34165"
+      }]
+    }, {
+      "name": "TOZKOPARAN",
+      "neighborhoods": [{
+        "name": "ABDURRAHMAN NAFİZ GÜRMAN MAH",
+        "code": "34173"
+      }, {
+        "name": "MEHMET NESİH ÖZMEN MAH",
+        "code": "34173"
+      }, {
+        "name": "TOZKOPARAN MAH",
+        "code": "34173"
+      }]
+    }]
+  }, {
+    "name": "KADIKÖY",
+    "districts": [{
+      "name": "BOSTANCI",
+      "neighborhoods": [{
+        "name": "BOSTANCI MAH",
+        "code": "34744"
+      }]
+    }, {
+      "name": "CADDEBOSTAN",
+      "neighborhoods": [{
+        "name": "CADDEBOSTAN MAH",
+        "code": "34728"
+      }]
+    }, {
+      "name": "CAFERAĞA",
+      "neighborhoods": [{
+        "name": "CAFERAĞA MAH",
+        "code": "34710"
+      }]
+    }, {
+      "name": "EĞİTİM",
+      "neighborhoods": [{
+        "name": "EĞİTİM MAH",
+        "code": "34722"
+      }, {
+        "name": "HASANPAŞA MAH",
+        "code": "34722"
+      }]
+    }, {
+      "name": "ERENKÖY",
+      "neighborhoods": [{
+        "name": "ERENKÖY MAH",
+        "code": "34738"
+      }]
+    }, {
+      "name": "FENERBAHÇE",
+      "neighborhoods": [{
+        "name": "FENERBAHÇE MAH",
+        "code": "34726"
+      }]
+    }, {
+      "name": "FENERYOLU",
+      "neighborhoods": [{
+        "name": "FENERYOLU MAH",
+        "code": "34724"
+      }, {
+        "name": "ZÜHTÜPAŞA MAH",
+        "code": "34724"
+      }]
+    }, {
+      "name": "FİKİRTEPE",
+      "neighborhoods": [{
+        "name": "DUMLUPINAR MAH",
+        "code": "34720"
+      }, {
+        "name": "FİKİRTEPE MAH",
+        "code": "34720"
+      }]
+    }, {
+      "name": "GÖZTEPE",
+      "neighborhoods": [{
+        "name": "GÖZTEPE MAH",
+        "code": "34730"
+      }]
+    }, {
+      "name": "KOŞUYOLU",
+      "neighborhoods": [{
+        "name": "ACIBADEM MAH",
+        "code": "34718"
+      }, {
+        "name": "KOŞUYOLU MAH",
+        "code": "34718"
+      }]
+    }, {
+      "name": "KOZYATAĞI",
+      "neighborhoods": [{
+        "name": "KOZYATAĞI MAH",
+        "code": "34742"
+      }]
+    }, {
+      "name": "MERDİVENKÖY",
+      "neighborhoods": [{
+        "name": "MERDİVENKÖY MAH",
+        "code": "34732"
+      }]
+    }, {
+      "name": "ONDOKUZMAYIS",
+      "neighborhoods": [{
+        "name": "19 MAYIS MAH",
+        "code": "34736"
+      }]
+    }, {
+      "name": "OSMANAĞA",
+      "neighborhoods": [{
+        "name": "OSMANAĞA MAH",
+        "code": "34714"
+      }]
+    }, {
+      "name": "RASİMPAŞA",
+      "neighborhoods": [{
+        "name": "RASİMPAŞA MAH",
+        "code": "34716"
+      }]
+    }, {
+      "name": "SAHRAYICEDİT",
+      "neighborhoods": [{
+        "name": "SAHRAYICEDİT MAH",
+        "code": "34734"
+      }]
+    }, {
+      "name": "SUADİYE",
+      "neighborhoods": [{
+        "name": "SUADİYE MAH",
+        "code": "34740"
+      }]
+    }]
+  }, {
+    "name": "KAĞITHANE",
+    "districts": [{
+      "name": "ÇAĞLAYAN",
+      "neighborhoods": [{
+        "name": "ÇAĞLAYAN MAH",
+        "code": "34403"
+      }, {
+        "name": "HÜRRİYET MAH",
+        "code": "34403"
+      }]
+    }, {
+      "name": "ÇELİKTEPE",
+      "neighborhoods": [{
+        "name": "ÇELİKTEPE MAH",
+        "code": "34413"
+      }, {
+        "name": "ORTABAYIR MAH",
+        "code": "34413"
+      }]
+    }, {
+      "name": "GÜLTEPE",
+      "neighborhoods": [{
+        "name": "GÜLTEPE MAH",
+        "code": "34410"
+      }, {
+        "name": "HARMANTEPE MAH",
+        "code": "34410"
+      }, {
+        "name": "TELSİZLER MAH",
+        "code": "34410"
+      }, {
+        "name": "YAHYA KEMAL MAH",
+        "code": "34410"
+      }]
+    }, {
+      "name": "GÜRSEL",
+      "neighborhoods": [{
+        "name": "GÜRSEL MAH",
+        "code": "34400"
+      }, {
+        "name": "MEHMET AKİF ERSOY MAH",
+        "code": "34400"
+      }, {
+        "name": "TALATPAŞA MAH",
+        "code": "34400"
+      }]
+    }, {
+      "name": "HAMİDİYE",
+      "neighborhoods": [{
+        "name": "HAMİDİYE MAH",
+        "code": "34408"
+      }]
+    }, {
+      "name": "KAĞITHANE MERKEZ",
+      "neighborhoods": [{
+        "name": "MERKEZ MAH",
+        "code": "34406"
+      }, {
+        "name": "NURTEPE MAH",
+        "code": "34406"
+      }]
+    }, {
+      "name": "SEYRANTEPE",
+      "neighborhoods": [{
+        "name": "SEYRANTEPE MAH",
+        "code": "34418"
+      }, {
+        "name": "YEŞİLCE MAH",
+        "code": "34418"
+      }]
+    }, {
+      "name": "ŞİRİNTEPE",
+      "neighborhoods": [{
+        "name": "EMNİYET EVLERİ MAH",
+        "code": "34415"
+      }, {
+        "name": "SULTAN SELİM MAH",
+        "code": "34415"
+      }, {
+        "name": "ŞİRİNTEPE MAH",
+        "code": "34415"
+      }]
+    }]
+  }, {
+    "name": "KARTAL",
+    "districts": [{
+      "name": "ATALAR",
+      "neighborhoods": [{
+        "name": "ATALAR MAH",
+        "code": "34862"
+      }, {
+        "name": "PETROL İŞ MAH",
+        "code": "34862"
+      }]
+    }, {
+      "name": "ESENTEPE",
+      "neighborhoods": [{
+        "name": "ESENTEPE MAH",
+        "code": "34870"
+      }, {
+        "name": "KARLIKTEPE MAH",
+        "code": "34870"
+      }]
+    }, {
+      "name": "KARTAL",
+      "neighborhoods": [{
+        "name": "KORDONBOYU MAH",
+        "code": "34860"
+      }, {
+        "name": "YUKARI MAH",
+        "code": "34860"
+      }]
+    }, {
+      "name": "ORHANTEPE",
+      "neighborhoods": [{
+        "name": "CEVİZLİ MAH",
+        "code": "34865"
+      }, {
+        "name": "ORHANTEPE MAH",
+        "code": "34865"
+      }]
+    }, {
+      "name": "SOĞANLIK",
+      "neighborhoods": [{
+        "name": "GÜMÜŞPINAR MAH",
+        "code": "34880"
+      }, {
+        "name": "ORTA MAH",
+        "code": "34880"
+      }, {
+        "name": "SOĞANLIK YENİ MAH",
+        "code": "34880"
+      }]
+    }, {
+      "name": "TOPSELVİ",
+      "neighborhoods": [{
+        "name": "ÇAVUŞOĞLU MAH",
+        "code": "34873"
+      }, {
+        "name": "TOPSELVİ MAH",
+        "code": "34873"
+      }, {
+        "name": "YALI MAH",
+        "code": "34873"
+      }, {
+        "name": "YUNUS MAH",
+        "code": "34873"
+      }]
+    }, {
+      "name": "UĞUR MUMCU",
+      "neighborhoods": [{
+        "name": "UĞUR MUMCU MAH",
+        "code": "34882"
+      }, {
+        "name": "YAKACIK YENİ MAH",
+        "code": "34882"
+      }]
+    }, {
+      "name": "YAKACIK",
+      "neighborhoods": [{
+        "name": "CUMHURİYET MAH",
+        "code": "34876"
+      }, {
+        "name": "HÜRRİYET MAH",
+        "code": "34876"
+      }, {
+        "name": "YAKACIK ÇARŞI MAH",
+        "code": "34876"
+      }]
+    }]
+  }, {
+    "name": "KÜÇÜKÇEKMECE",
+    "districts": [{
+      "name": "ATAKENT",
+      "neighborhoods": [{
+        "name": "ATAKENT MAH",
+        "code": "34307"
+      }, {
+        "name": "ATATÜRK MAH",
+        "code": "34307"
+      }, {
+        "name": "KÜÇÜKÇEKMECE İKİTELLİOSB MAH",
+        "code": "34307"
+      }, {
+        "name": "MEHMET AKİF MAH",
+        "code": "34307"
+      }]
+    }, {
+      "name": "HALKALI",
+      "neighborhoods": [{
+        "name": "HALKALI MERKEZ MAH",
+        "code": "34303"
+      }, {
+        "name": "İSTASYON MAH",
+        "code": "34303"
+      }, {
+        "name": "YARIMBURGAZ MAH",
+        "code": "34303"
+      }]
+    }, {
+      "name": "KÜÇÜKÇEKMECE",
+      "neighborhoods": [{
+        "name": "CENNET MAH",
+        "code": "34290"
+      }, {
+        "name": "CUMHURİYET MAH",
+        "code": "34290"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34290"
+      }, {
+        "name": "KANARYA MAH",
+        "code": "34290"
+      }, {
+        "name": "YENİ MAHALLE MAH",
+        "code": "34290"
+      }]
+    }, {
+      "name": "SEFAKÖY",
+      "neighborhoods": [{
+        "name": "BEŞYOL MAH",
+        "code": "34295"
+      }, {
+        "name": "FEVZİ ÇAKMAK MAH",
+        "code": "34295"
+      }, {
+        "name": "GÜLTEPE MAH",
+        "code": "34295"
+      }, {
+        "name": "İNÖNÜ MAH",
+        "code": "34295"
+      }, {
+        "name": "KARTALTEPE MAH",
+        "code": "34295"
+      }, {
+        "name": "KEMALPAŞA MAH",
+        "code": "34295"
+      }, {
+        "name": "SÖĞÜTLÜ ÇEŞME MAH",
+        "code": "34295"
+      }, {
+        "name": "SULTAN MURAT MAH",
+        "code": "34295"
+      }, {
+        "name": "TEVFİKBEY MAH",
+        "code": "34295"
+      }, {
+        "name": "YEŞİLOVA MAH",
+        "code": "34295"
+      }]
+    }]
+  }, {
+    "name": "MALTEPE",
+    "districts": [{
+      "name": "AYDINEVLER",
+      "neighborhoods": [{
+        "name": "AYDINEVLER MAH",
+        "code": "34854"
+      }, {
+        "name": "BAŞIBÜYÜK MAH",
+        "code": "34854"
+      }, {
+        "name": "FINDIKLI MAH",
+        "code": "34854"
+      }]
+    }, {
+      "name": "BÜYÜKBAKKALKÖY",
+      "neighborhoods": [{
+        "name": "BÜYÜKBAKKALKÖY MAH",
+        "code": "34858"
+      }]
+    }, {
+      "name": "CEVİZLİ",
+      "neighborhoods": [{
+        "name": "CEVİZLİ MAH",
+        "code": "34846"
+      }]
+    }, {
+      "name": "FEYZULLAH",
+      "neighborhoods": [{
+        "name": "ALTAYÇEŞME MAH",
+        "code": "34843"
+      }, {
+        "name": "FEYZULLAH MAH",
+        "code": "34843"
+      }]
+    }, {
+      "name": "GÜLSUYU",
+      "neighborhoods": [{
+        "name": "ESENKENT MAH",
+        "code": "34848"
+      }, {
+        "name": "GÜLENSU MAH",
+        "code": "34848"
+      }, {
+        "name": "GÜLSUYU MAH",
+        "code": "34848"
+      }]
+    }, {
+      "name": "İDEALTEPE",
+      "neighborhoods": [{
+        "name": "ÇINAR MAH",
+        "code": "34841"
+      }, {
+        "name": "İDEALTEPE MAH",
+        "code": "34841"
+      }]
+    }, {
+      "name": "KÜÇÜKYALI",
+      "neighborhoods": [{
+        "name": "ALTINTEPE MAH",
+        "code": "34840"
+      }, {
+        "name": "KÜÇÜKYALI MERKEZ MAH",
+        "code": "34840"
+      }]
+    }, {
+      "name": "YALI",
+      "neighborhoods": [{
+        "name": "BAĞLARBAŞI MAH",
+        "code": "34844"
+      }, {
+        "name": "YALI MAH",
+        "code": "34844"
+      }]
+    }, {
+      "name": "ZÜMRÜTEVLER",
+      "neighborhoods": [{
+        "name": "GİRNE MAH",
+        "code": "34852"
+      }, {
+        "name": "ZÜMRÜTEVLER MAH",
+        "code": "34852"
+      }]
+    }]
+  }, {
+    "name": "PENDİK",
+    "districts": [{
+      "name": "BAHÇELİEVLER",
+      "neighborhoods": [{
+        "name": "BAHÇELİEVLER MAH",
+        "code": "34893"
+      }, {
+        "name": "SAPAN BAĞLARI MAH",
+        "code": "34893"
+      }, {
+        "name": "YENİ MAH",
+        "code": "34893"
+      }, {
+        "name": "YEŞİLBAĞLAR MAH",
+        "code": "34893"
+      }]
+    }, {
+      "name": "ÇAMÇEŞME",
+      "neighborhoods": [{
+        "name": "ÇAMÇEŞME MAH",
+        "code": "34899"
+      }, {
+        "name": "ESENLER MAH",
+        "code": "34899"
+      }, {
+        "name": "FEVZİ ÇAKMAK MAH",
+        "code": "34899"
+      }, {
+        "name": "KAVAKPINAR MAH",
+        "code": "34899"
+      }]
+    }, {
+      "name": "ÇARŞI",
+      "neighborhoods": [{
+        "name": "BATI MAH",
+        "code": "34890"
+      }, {
+        "name": "DOĞU MAH",
+        "code": "34890"
+      }, {
+        "name": "KAYNARCA MAH",
+        "code": "34890"
+      }]
+    }, {
+      "name": "ÇINARDERE",
+      "neighborhoods": [{
+        "name": "ÇINARDERE MAH",
+        "code": "34896"
+      }, {
+        "name": "DUMLUPINAR MAH",
+        "code": "34896"
+      }, {
+        "name": "ORTA MAH",
+        "code": "34896"
+      }, {
+        "name": "VELİBABA MAH",
+        "code": "34896"
+      }]
+    }, {
+      "name": "ESENYALI",
+      "neighborhoods": [{
+        "name": "AHMET YESEVİ MAH",
+        "code": "34903"
+      }, {
+        "name": "ESENYALI MAH",
+        "code": "34903"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34903"
+      }, {
+        "name": "GÜZELYALI MAH",
+        "code": "34903"
+      }, {
+        "name": "ORHANGAZİ MAH",
+        "code": "34903"
+      }]
+    }, {
+      "name": "KURNA",
+      "neighborhoods": [{
+        "name": "BALLICA MAH",
+        "code": "34916"
+      }, {
+        "name": "EMİRLİ MAH",
+        "code": "34916"
+      }, {
+        "name": "GÖÇBEYLİ MAH",
+        "code": "34916"
+      }, {
+        "name": "KURNA MAH",
+        "code": "34916"
+      }, {
+        "name": "KURTDOĞMUŞ MAH",
+        "code": "34916"
+      }]
+    }, {
+      "name": "ŞEYHLİ",
+      "neighborhoods": [{
+        "name": "GÜLLÜ BAĞLAR MAH",
+        "code": "34906"
+      }, {
+        "name": "RAMAZANOĞLU MAH",
+        "code": "34906"
+      }, {
+        "name": "SANAYİ MAH",
+        "code": "34906"
+      }, {
+        "name": "ŞEYHLİ MAH",
+        "code": "34906"
+      }]
+    }, {
+      "name": "YAYALAR",
+      "neighborhoods": [{
+        "name": "ERTUĞRUL GAZİ MAH",
+        "code": "34909"
+      }, {
+        "name": "SÜLÜNTEPE MAH",
+        "code": "34909"
+      }, {
+        "name": "YAYALAR MAH",
+        "code": "34909"
+      }]
+    }, {
+      "name": "YENİŞEHİR",
+      "neighborhoods": [{
+        "name": "ÇAMLIK MAH",
+        "code": "34912"
+      }, {
+        "name": "HARMANDERE MAH",
+        "code": "34912"
+      }, {
+        "name": "KURTKÖY MAH",
+        "code": "34912"
+      }, {
+        "name": "YENİŞEHİR MAH",
+        "code": "34912"
+      }]
+    }]
+  }, {
+    "name": "SANCAKTEPE",
+    "districts": [{
+      "name": "EYÜPSULTAN",
+      "neighborhoods": [{
+        "name": "AKPINAR MAH",
+        "code": "34885"
+      }, {
+        "name": "EYÜP SULTAN MAH",
+        "code": "34885"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34885"
+      }, {
+        "name": "VEYSEL KARANİ MAH",
+        "code": "34885"
+      }]
+    }, {
+      "name": "OSMANGAZİ",
+      "neighborhoods": [{
+        "name": "ABDURRAHMANGAZİ MAH",
+        "code": "34887"
+      }, {
+        "name": "OSMANGAZİ MAH",
+        "code": "34887"
+      }]
+    }, {
+      "name": "SARIGAZİ",
+      "neighborhoods": [{
+        "name": "ATATÜRK MAH",
+        "code": "34785"
+      }, {
+        "name": "EMEK MAH",
+        "code": "34785"
+      }, {
+        "name": "İNÖNÜ MAH",
+        "code": "34785"
+      }, {
+        "name": "KEMAL TÜRKLER MAH",
+        "code": "34785"
+      }, {
+        "name": "MECLİS MAH",
+        "code": "34785"
+      }, {
+        "name": "SARIGAZİ MAH",
+        "code": "34785"
+      }]
+    }, {
+      "name": "YENİDOĞAN",
+      "neighborhoods": [{
+        "name": "HİLAL MAH",
+        "code": "34791"
+      }, {
+        "name": "MERVE MAH",
+        "code": "34791"
+      }, {
+        "name": "MEVLANA MAH",
+        "code": "34791"
+      }, {
+        "name": "PAŞAKÖY MAH",
+        "code": "34791"
+      }, {
+        "name": "SAFA MAH",
+        "code": "34791"
+      }, {
+        "name": "YENİDOĞAN MAH",
+        "code": "34791"
+      }, {
+        "name": "YUNUS EMRE MAH",
+        "code": "34791"
+      }]
+    }]
+  }, {
+    "name": "SARIYER",
+    "districts": [{
+      "name": "BAHÇEKÖY",
+      "neighborhoods": [{
+        "name": "BAHÇEKÖY KEMER MAH",
+        "code": "34473"
+      }, {
+        "name": "BAHÇEKÖY MERKEZ MAH",
+        "code": "34473"
+      }, {
+        "name": "BAHÇEKÖY YENİ MAH",
+        "code": "34473"
+      }]
+    }, {
+      "name": "BÜYÜKDERE",
+      "neighborhoods": [{
+        "name": "BÜYÜKDERE MAH",
+        "code": "34453"
+      }, {
+        "name": "ÇAYIRBAŞI MAH",
+        "code": "34453"
+      }, {
+        "name": "KOCATAŞ MAH",
+        "code": "34453"
+      }, {
+        "name": "PTT EVLERİ MAH",
+        "code": "34453"
+      }]
+    }, {
+      "name": "EMİRGAN",
+      "neighborhoods": [{
+        "name": "EMİRGAN MAH",
+        "code": "34467"
+      }, {
+        "name": "REŞİTPAŞA MAH",
+        "code": "34467"
+      }]
+    }, {
+      "name": "İSTİNYE",
+      "neighborhoods": [{
+        "name": "İSTİNYE MAH",
+        "code": "34460"
+      }, {
+        "name": "PINAR MAH",
+        "code": "34460"
+      }, {
+        "name": "POLİGON MAH",
+        "code": "34460"
+      }]
+    }, {
+      "name": "MASLAK",
+      "neighborhoods": [{
+        "name": "AYAZAĞA MAH",
+        "code": "34485"
+      }, {
+        "name": "HUZUR MAH",
+        "code": "34485"
+      }, {
+        "name": "MASLAK MAH",
+        "code": "34485"
+      }]
+    }, {
+      "name": "RUMELİHİSARI",
+      "neighborhoods": [{
+        "name": "BALTALİMANI MAH",
+        "code": "34470"
+      }, {
+        "name": "FATİH SULTAN MEHMET MAH",
+        "code": "34470"
+      }, {
+        "name": "RUMELİHİSARI MAH",
+        "code": "34470"
+      }]
+    }, {
+      "name": "SARIYER",
+      "neighborhoods": [{
+        "name": "DEMİRCİKÖY MAH",
+        "code": "34450"
+      }, {
+        "name": "GARİPÇE MAH",
+        "code": "34450"
+      }, {
+        "name": "GÜMÜŞDERE MAH",
+        "code": "34450"
+      }, {
+        "name": "KAZIM KARABEKİR PAŞA MAH",
+        "code": "34450"
+      }, {
+        "name": "KISIRKAYA MAH",
+        "code": "34450"
+      }, {
+        "name": "KUMKÖY  MAH (KİLYOS MAH)",
+        "code": "34450"
+      }, {
+        "name": "MADEN MAH",
+        "code": "34450"
+      }, {
+        "name": "RUMELİFENERİ MAH",
+        "code": "34450"
+      }, {
+        "name": "RUMELİKAVAĞI MAH",
+        "code": "34450"
+      }, {
+        "name": "SARIYER MERKEZ MAH",
+        "code": "34450"
+      }, {
+        "name": "USKUMRUKÖY MAH",
+        "code": "34450"
+      }, {
+        "name": "YENİ MAH",
+        "code": "34450"
+      }, {
+        "name": "ZEKERİYAKÖY MAH",
+        "code": "34450"
+      }]
+    }, {
+      "name": "TARABYA",
+      "neighborhoods": [{
+        "name": "CUMHURİYET MAH",
+        "code": "34457"
+      }, {
+        "name": "ÇAMLITEPE MAH",
+        "code": "34457"
+      }, {
+        "name": "DARÜŞŞAFAKA MAH",
+        "code": "34457"
+      }, {
+        "name": "FERAHEVLER MAH",
+        "code": "34457"
+      }, {
+        "name": "KİREÇBURNU MAH",
+        "code": "34457"
+      }, {
+        "name": "TARABYA MAH",
+        "code": "34457"
+      }]
+    }, {
+      "name": "YENİKÖY",
+      "neighborhoods": [{
+        "name": "YENİKÖY MAH",
+        "code": "34464"
+      }]
+    }]
+  }, {
+    "name": "SİLİVRİ",
+    "districts": [{
+      "name": "BÜYÜKÇAVUŞLU",
+      "neighborhoods": [{
+        "name": "BEYCİLER MAH",
+        "code": "34594"
+      }, {
+        "name": "BÜYÜK ÇAVUŞLU MAH",
+        "code": "34594"
+      }, {
+        "name": "BÜYÜK SİNEKLİ MAH",
+        "code": "34594"
+      }, {
+        "name": "ÇAYIRDERE MAH",
+        "code": "34594"
+      }, {
+        "name": "DANAMANDIRA MAH",
+        "code": "34594"
+      }, {
+        "name": "KÜÇÜK SİNEKLİ MAH",
+        "code": "34594"
+      }, {
+        "name": "SAYALAR MAH",
+        "code": "34594"
+      }]
+    }, {
+      "name": "ÇANTA",
+      "neighborhoods": [{
+        "name": "ÇANTA BALABAN MAH",
+        "code": "34580"
+      }, {
+        "name": "ÇANTA SANCAKTEPE MAH",
+        "code": "34580"
+      }]
+    }, {
+      "name": "DEĞİRMENKÖY",
+      "neighborhoods": [{
+        "name": "DEĞİRMENKÖY FEVZİPAŞA MAH",
+        "code": "34586"
+      }, {
+        "name": "DEĞİRMENKÖY İSMETPAŞA MAH",
+        "code": "34586"
+      }]
+    }, {
+      "name": "FENER",
+      "neighborhoods": [{
+        "name": "BEKİRLİ MAH",
+        "code": "34582"
+      }, {
+        "name": "BÜYÜK KILIÇLI MAH",
+        "code": "34582"
+      }, {
+        "name": "ÇELTİK MAH",
+        "code": "34582"
+      }, {
+        "name": "FENER MAH",
+        "code": "34582"
+      }, {
+        "name": "KURFALLI MAH",
+        "code": "34582"
+      }, {
+        "name": "KÜÇÜK KILIÇLI MAH",
+        "code": "34582"
+      }, {
+        "name": "SEYMEN MAH",
+        "code": "34582"
+      }, {
+        "name": "YOLÇATI MAH",
+        "code": "34582"
+      }]
+    }, {
+      "name": "GÜMÜŞYAKA",
+      "neighborhoods": [{
+        "name": "GÜMÜŞYAKA MAH",
+        "code": "34588"
+      }]
+    }, {
+      "name": "KAVAKLI",
+      "neighborhoods": [{
+        "name": "KAVAKLI HÜRRİYET MAH",
+        "code": "34596"
+      }, {
+        "name": "KAVAKLI İSTİKLAL MAH",
+        "code": "34596"
+      }]
+    }, {
+      "name": "ORTAKÖY",
+      "neighborhoods": [{
+        "name": "AKÖREN MAH",
+        "code": "34592"
+      }, {
+        "name": "GAZİTEPE MAH",
+        "code": "34592"
+      }, {
+        "name": "KADIKÖY MAH",
+        "code": "34592"
+      }, {
+        "name": "ORTAKÖY MAH",
+        "code": "34592"
+      }]
+    }, {
+      "name": "SELİMPAŞA",
+      "neighborhoods": [{
+        "name": "SELİMPAŞA MAH",
+        "code": "34590"
+      }]
+    }, {
+      "name": "SİLİVRİ",
+      "neighborhoods": [{
+        "name": "ALİBEY MAH",
+        "code": "34570"
+      }, {
+        "name": "ALİPAŞA MAH",
+        "code": "34570"
+      }, {
+        "name": "CUMHURİYET MAH",
+        "code": "34570"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34570"
+      }, {
+        "name": "MİMAR SİNAN MAH",
+        "code": "34570"
+      }, {
+        "name": "PİRİ MEHMET PAŞA MAH",
+        "code": "34570"
+      }, {
+        "name": "SEMİZKUMLAR MAH",
+        "code": "34570"
+      }, {
+        "name": "YENİ MAH",
+        "code": "34570"
+      }]
+    }]
+  }, {
+    "name": "SULTANBEYLİ",
+    "districts": [{
+      "name": "MEHMETAKİF",
+      "neighborhoods": [{
+        "name": "ABDURRAHMANGAZİ MAH",
+        "code": "34920"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34920"
+      }, {
+        "name": "HASANPAŞA MAH",
+        "code": "34920"
+      }, {
+        "name": "MEHMET AKİF MAH",
+        "code": "34920"
+      }]
+    }, {
+      "name": "MİMARSİNAN",
+      "neighborhoods": [{
+        "name": "ADİL MAH",
+        "code": "34935"
+      }, {
+        "name": "BATTALGAZİ MAH",
+        "code": "34935"
+      }, {
+        "name": "MİMAR SİNAN MAH",
+        "code": "34935"
+      }]
+    }, {
+      "name": "NECİPFAZIL",
+      "neighborhoods": [{
+        "name": "AKŞEMSETTİN MAH",
+        "code": "34925"
+      }, {
+        "name": "HAMİDİYE MAH",
+        "code": "34925"
+      }, {
+        "name": "NECİP FAZIL MAH",
+        "code": "34925"
+      }, {
+        "name": "ORHANGAZİ MAH",
+        "code": "34925"
+      }, {
+        "name": "YAVUZ SELİM MAH",
+        "code": "34925"
+      }]
+    }, {
+      "name": "TURGUTREİS",
+      "neighborhoods": [{
+        "name": "AHMET YESEVİ MAH",
+        "code": "34930"
+      }, {
+        "name": "MECİDİYE MAH",
+        "code": "34930"
+      }, {
+        "name": "TURGUT REİS MAH",
+        "code": "34930"
+      }]
+    }]
+  }, {
+    "name": "SULTANGAZİ",
+    "districts": [{
+      "name": "SULTANÇİFTLİĞİ",
+      "neighborhoods": [{
+        "name": "50. YIL MAH",
+        "code": "34265"
+      }, {
+        "name": "CUMHURİYET MAH",
+        "code": "34265"
+      }, {
+        "name": "ESENTEPE MAH",
+        "code": "34265"
+      }, {
+        "name": "SULTANÇİFTLİĞİ MAH",
+        "code": "34265"
+      }, {
+        "name": "UĞUR MUMCU MAH",
+        "code": "34265"
+      }]
+    }, {
+      "name": "SULTANGAZİ",
+      "neighborhoods": [{
+        "name": "CEBECİ MAH",
+        "code": "34270"
+      }, {
+        "name": "ESKİ HABİPLER MAH",
+        "code": "34270"
+      }, {
+        "name": "HABİBLER MAH",
+        "code": "34270"
+      }, {
+        "name": "İSMETPAŞA MAH",
+        "code": "34270"
+      }, {
+        "name": "MALKOÇOĞLU MAH",
+        "code": "34270"
+      }, {
+        "name": "YAYLA MAH",
+        "code": "34270"
+      }]
+    }, {
+      "name": "ZÜBEYDEHANIM",
+      "neighborhoods": [{
+        "name": "75. YIL MAH",
+        "code": "34260"
+      }, {
+        "name": "GAZİ MAH",
+        "code": "34260"
+      }, {
+        "name": "YUNUS EMRE MAH",
+        "code": "34260"
+      }, {
+        "name": "ZÜBEYDE HANIM MAH",
+        "code": "34260"
+      }]
+    }]
+  }, {
+    "name": "ŞİLE",
+    "districts": [{
+      "name": "AĞVA",
+      "neighborhoods": [{
+        "name": "AĞVA MERKEZ MAH",
+        "code": "34990"
+      }, {
+        "name": "BUCAKLI MAH",
+        "code": "34990"
+      }, {
+        "name": "ÇATAKLI MAH",
+        "code": "34990"
+      }, {
+        "name": "ÇELEBİ MAH",
+        "code": "34990"
+      }, {
+        "name": "GEREDELİ MAH",
+        "code": "34990"
+      }, {
+        "name": "GÖÇE MAH",
+        "code": "34990"
+      }, {
+        "name": "GÖKMAŞLI MAH",
+        "code": "34990"
+      }, {
+        "name": "GÖKSU MAH",
+        "code": "34990"
+      }, {
+        "name": "HACILLI MAH",
+        "code": "34990"
+      }, {
+        "name": "İSAKÖY MAH",
+        "code": "34990"
+      }, {
+        "name": "KADIKÖY MAH",
+        "code": "34990"
+      }, {
+        "name": "KALEM MAH",
+        "code": "34990"
+      }, {
+        "name": "KURFALLI MAH",
+        "code": "34990"
+      }, {
+        "name": "SOĞULLU MAH",
+        "code": "34990"
+      }, {
+        "name": "ŞUAYİPLİ MAH",
+        "code": "34990"
+      }]
+    }, {
+      "name": "AHMETLİ",
+      "neighborhoods": [{
+        "name": "AĞAÇDERE MAH",
+        "code": "34983"
+      }, {
+        "name": "AHMETLİ MAH",
+        "code": "34983"
+      }, {
+        "name": "AKÇAKESE MAH",
+        "code": "34983"
+      }, {
+        "name": "ALACALI MAH",
+        "code": "34983"
+      }, {
+        "name": "AVCIKORU MAH",
+        "code": "34983"
+      }, {
+        "name": "BIÇKIDERE MAH",
+        "code": "34983"
+      }, {
+        "name": "BOZGOCA MAH",
+        "code": "34983"
+      }, {
+        "name": "ÇAYIRBAŞI MAH",
+        "code": "34983"
+      }, {
+        "name": "ÇENGİLLİ MAH",
+        "code": "34983"
+      }, {
+        "name": "DARLIK MAH",
+        "code": "34983"
+      }, {
+        "name": "DEĞİRMENÇAYIRI MAH",
+        "code": "34983"
+      }, {
+        "name": "DOĞANCILI MAH",
+        "code": "34983"
+      }, {
+        "name": "ERENLER MAH",
+        "code": "34983"
+      }, {
+        "name": "ESENCELİ MAH",
+        "code": "34983"
+      }, {
+        "name": "HASANLI MAH",
+        "code": "34983"
+      }, {
+        "name": "İMRENDERE MAH",
+        "code": "34983"
+      }, {
+        "name": "İMRENLİ MAH",
+        "code": "34983"
+      }, {
+        "name": "KABAKOZ MAH",
+        "code": "34983"
+      }, {
+        "name": "KARABEYLİ MAH",
+        "code": "34983"
+      }, {
+        "name": "KARACAKÖY MAH",
+        "code": "34983"
+      }, {
+        "name": "KARAKİRAZ MAH",
+        "code": "34983"
+      }, {
+        "name": "KARAMANDERE MAH",
+        "code": "34983"
+      }, {
+        "name": "KERVANSARAY MAH",
+        "code": "34983"
+      }, {
+        "name": "KIZILCA MAH",
+        "code": "34983"
+      }, {
+        "name": "KORUCU MAH",
+        "code": "34983"
+      }, {
+        "name": "KÖMÜRLÜK MAH",
+        "code": "34983"
+      }, {
+        "name": "KURNA MAH",
+        "code": "34983"
+      }, {
+        "name": "MEŞRUTİYET MAH",
+        "code": "34983"
+      }, {
+        "name": "ORUÇOĞLU MAH",
+        "code": "34983"
+      }, {
+        "name": "OSMANKÖY MAH",
+        "code": "34983"
+      }, {
+        "name": "OVACIK MAH",
+        "code": "34983"
+      }, {
+        "name": "SAHİLKÖY MAH",
+        "code": "34983"
+      }, {
+        "name": "SATMAZLI MAH",
+        "code": "34983"
+      }, {
+        "name": "SOFULAR MAH",
+        "code": "34983"
+      }, {
+        "name": "SORTULLU MAH",
+        "code": "34983"
+      }, {
+        "name": "TEKE MAH",
+        "code": "34983"
+      }, {
+        "name": "ULUPELİT MAH",
+        "code": "34983"
+      }, {
+        "name": "ÜVEZLİ MAH",
+        "code": "34983"
+      }, {
+        "name": "YAKA MAH",
+        "code": "34983"
+      }, {
+        "name": "YAYLALI MAH",
+        "code": "34983"
+      }, {
+        "name": "YAZIMANAYIR MAH",
+        "code": "34983"
+      }, {
+        "name": "YENİKÖY MAH",
+        "code": "34983"
+      }, {
+        "name": "YEŞİLVADİ MAH",
+        "code": "34983"
+      }]
+    }, {
+      "name": "ŞİLE",
+      "neighborhoods": [{
+        "name": "BALİBEY MAH",
+        "code": "34980"
+      }, {
+        "name": "ÇAVUŞ MAH",
+        "code": "34980"
+      }, {
+        "name": "HACI KASIM MAH",
+        "code": "34980"
+      }, {
+        "name": "KUMBABA MAH",
+        "code": "34980"
+      }]
+    }]
+  }, {
+    "name": "ŞİŞLİ",
+    "districts": [{
+      "name": "BOZKURT",
+      "neighborhoods": [{
+        "name": "BOZKURT MAH",
+        "code": "34375"
+      }, {
+        "name": "ESKİŞEHİR MAH",
+        "code": "34375"
+      }]
+    }, {
+      "name": "CUMHURİYET",
+      "neighborhoods": [{
+        "name": "CUMHURİYET MAH",
+        "code": "34380"
+      }]
+    }, {
+      "name": "DUATEPE",
+      "neighborhoods": [{
+        "name": "DUATEPE MAH",
+        "code": "34379"
+      }, {
+        "name": "PAŞA MAH",
+        "code": "34379"
+      }]
+    }, {
+      "name": "ESENTEPE",
+      "neighborhoods": [{
+        "name": "ESENTEPE MAH",
+        "code": "34394"
+      }, {
+        "name": "FULYA MAH",
+        "code": "34394"
+      }, {
+        "name": "GÜLBAHAR MAH",
+        "code": "34394"
+      }]
+    }, {
+      "name": "FERİKÖY",
+      "neighborhoods": [{
+        "name": "FERİKÖY MAH",
+        "code": "34377"
+      }, {
+        "name": "YAYLA MAH",
+        "code": "34377"
+      }]
+    }, {
+      "name": "HALASKARGAZİ",
+      "neighborhoods": [{
+        "name": "HALASKARGAZİ MAH",
+        "code": "34371"
+      }]
+    }, {
+      "name": "HARBİYE",
+      "neighborhoods": [{
+        "name": "HARBİYE MAH",
+        "code": "34367"
+      }]
+    }, {
+      "name": "MECİDİYEKÖY",
+      "neighborhoods": [{
+        "name": "İZZET PAŞA MAH",
+        "code": "34381"
+      }, {
+        "name": "KUŞTEPE MAH",
+        "code": "34381"
+      }, {
+        "name": "MECİDİYEKÖY MAH",
+        "code": "34381"
+      }]
+    }, {
+      "name": "MEŞRUTİYET",
+      "neighborhoods": [{
+        "name": "19 MAYIS MAH",
+        "code": "34363"
+      }, {
+        "name": "MEŞRUTİYET MAH",
+        "code": "34363"
+      }]
+    }, {
+      "name": "OKMEYDANI",
+      "neighborhoods": [{
+        "name": "HALİDE EDİP ADIVAR MAH",
+        "code": "34384"
+      }, {
+        "name": "HALİL RIFAT PAŞA MAH",
+        "code": "34384"
+      }, {
+        "name": "KAPTANPAŞA MAH",
+        "code": "34384"
+      }, {
+        "name": "MAHMUT ŞEVKET PAŞA MAH",
+        "code": "34384"
+      }, {
+        "name": "MERKEZ MAH",
+        "code": "34384"
+      }]
+    }, {
+      "name": "PANGALTI",
+      "neighborhoods": [{
+        "name": "ERGENEKON MAH",
+        "code": "34373"
+      }, {
+        "name": "İNÖNÜ MAH",
+        "code": "34373"
+      }]
+    }, {
+      "name": "TEŞVİKİYE",
+      "neighborhoods": [{
+        "name": "TEŞVİKİYE MAH",
+        "code": "34365"
+      }]
+    }]
+  }, {
+    "name": "TUZLA",
+    "districts": [{
+      "name": "AKFIRAT",
+      "neighborhoods": [{
+        "name": "AKFIRAT MAH",
+        "code": "34959"
+      }, {
+        "name": "TEPEOREN İTOSB MAH",
+        "code": "34959"
+      }, {
+        "name": "TEPEÖREN MAH",
+        "code": "34959"
+      }]
+    }, {
+      "name": "AYDINLI",
+      "neighborhoods": [{
+        "name": "AYDINLI - BİRLİK OSB MAH",
+        "code": "34953"
+      }, {
+        "name": "AYDINLI - İSTANBUL AYOSB MAH",
+        "code": "34953"
+      }, {
+        "name": "AYDINLI MAH",
+        "code": "34953"
+      }, {
+        "name": "AYDINLI SB MAH",
+        "code": "34953"
+      }, {
+        "name": "AYDINLI-KOSB MAH",
+        "code": "34953"
+      }]
+    }, {
+      "name": "ÇARŞI",
+      "neighborhoods": [{
+        "name": "CAMİ MAH",
+        "code": "34940"
+      }, {
+        "name": "İSTASYON MAH",
+        "code": "34940"
+      }, {
+        "name": "POSTANE MAH",
+        "code": "34940"
+      }]
+    }, {
+      "name": "İÇMELER",
+      "neighborhoods": [{
+        "name": "AYDINTEPE MAH",
+        "code": "34947"
+      }, {
+        "name": "İÇMELER MAH",
+        "code": "34947"
+      }]
+    }, {
+      "name": "MİMARSİNAN",
+      "neighborhoods": [{
+        "name": "MİMAR SİNAN MAH",
+        "code": "34950"
+      }, {
+        "name": "ŞİFA MAH",
+        "code": "34950"
+      }]
+    }, {
+      "name": "ORHANLI",
+      "neighborhoods": [{
+        "name": "ANADOLU MAH",
+        "code": "34956"
+      }, {
+        "name": "DERİ OSB MAH",
+        "code": "34956"
+      }, {
+        "name": "FATİH MAH",
+        "code": "34956"
+      }, {
+        "name": "MESCİT MAH",
+        "code": "34956"
+      }, {
+        "name": "ORHANLI MAH",
+        "code": "34956"
+      }, {
+        "name": "ORTA MAH",
+        "code": "34956"
+      }]
+    }, {
+      "name": "TERSANELER",
+      "neighborhoods": [{
+        "name": "EVLİYA ÇELEBİ MAH",
+        "code": "34944"
+      }, {
+        "name": "YAYLA MAH",
+        "code": "34944"
+      }]
+    }]
+  }, {
+    "name": "ÜMRANİYE",
+    "districts": [{
+      "name": "AŞAĞIDUDULLU",
+      "neighborhoods": [{
+        "name": "ADEM YAVUZ MAH",
+        "code": "34773"
+      }, {
+        "name": "AŞAĞI DUDULLU MAH",
+        "code": "34773"
+      }, {
+        "name": "HUZUR MAH",
+        "code": "34773"
+      }, {
+        "name": "NECİP FAZIL MAH",
+        "code": "34773"
+      }, {
+        "name": "PARSELLER MAH",
+        "code": "34773"
+      }]
+    }, {
+      "name": "ATAKENT",
+      "neighborhoods": [{
+        "name": "ARMAĞANEVLER MAH",
+        "code": "34760"
+      }, {
+        "name": "ATAKENT MAH",
+        "code": "34760"
+      }, {
+        "name": "FİNANSKENT MAH",
+        "code": "34760"
+      }, {
+        "name": "SİTE MAH",
+        "code": "34760"
+      }, {
+        "name": "YENİŞEHİR MAH",
+        "code": "34760"
+      }]
+    }, {
+      "name": "ATATÜRK",
+      "neighborhoods": [{
+        "name": "ATATÜRK MAH",
+        "code": "34764"
+      }, {
+        "name": "ELMALIKENT MAH",
+        "code": "34764"
+      }, {
+        "name": "TANTAVİ MAH",
+        "code": "34764"
+      }]
+    }, {
+      "name": "ÇAKMAK",
+      "neighborhoods": [{
+        "name": "ÇAKMAK MAH",
+        "code": "34774"
+      }, {
+        "name": "ÇAMLIK MAH",
+        "code": "34774"
+      }, {
+        "name": "MEHMET AKİF MAH",
+        "code": "34774"
+      }, {
+        "name": "TATLISU MAH",
+        "code": "34774"
+      }]
+    }, {
+      "name": "ESENŞEHİR",
+      "neighborhoods": [{
+        "name": "ESENKENT MAH",
+        "code": "34776"
+      }, {
+        "name": "ESENŞEHİR MAH",
+        "code": "34776"
+      }, {
+        "name": "MADENLER MAH",
+        "code": "34776"
+      }]
+    }, {
+      "name": "IHLAMURKUYU",
+      "neighborhoods": [{
+        "name": "CEMİL MERİÇ MAH",
+        "code": "34771"
+      }, {
+        "name": "FATİH SULTAN MEHMET MAH",
+        "code": "34771"
+      }, {
+        "name": "IHLAMURKUYU MAH",
+        "code": "34771"
+      }, {
+        "name": "TEPEÜSTÜ MAH",
+        "code": "34771"
+      }]
+    }, {
+      "name": "İNKILAP",
+      "neighborhoods": [{
+        "name": "İNKILAP MAH",
+        "code": "34768"
+      }, {
+        "name": "SARAY MAH",
+        "code": "34768"
+      }, {
+        "name": "YAMANEVLER MAH",
+        "code": "34768"
+      }]
+    }, {
+      "name": "KAZIMKARABEKİR",
+      "neighborhoods": [{
+        "name": "DUMLUPINAR MAH",
+        "code": "34766"
+      }, {
+        "name": "HEKİMBAŞI MAH",
+        "code": "34766"
+      }, {
+        "name": "KAZIM KARABEKİR MAH",
+        "code": "34766"
+      }, {
+        "name": "TOPAĞACI MAH",
+        "code": "34766"
+      }]
+    }, {
+      "name": "NAMIKKEMAL",
+      "neighborhoods": [{
+        "name": "ESENEVLER MAH",
+        "code": "34762"
+      }, {
+        "name": "İSTİKLAL MAH",
+        "code": "34762"
+      }, {
+        "name": "NAMIK KEMAL MAH",
+        "code": "34762"
+      }]
+    }, {
+      "name": "YUKARIDUDULLU",
+      "neighborhoods": [{
+        "name": "ALTINŞEHİR MAH",
+        "code": "34775"
+      }, {
+        "name": "DUDULLU OSB MAH",
+        "code": "34775"
+      }, {
+        "name": "ŞERİFALİ MAH",
+        "code": "34775"
+      }, {
+        "name": "YUKARI DUDULLU MAH",
+        "code": "34775"
+      }]
+    }]
+  }, {
+    "name": "ÜSKÜDAR",
+    "districts": [{
+      "name": "ACIBADEM",
+      "neighborhoods": [{
+        "name": "ACIBADEM MAH",
+        "code": "34660"
+      }]
+    }, {
+      "name": "ALTUNİZADE",
+      "neighborhoods": [{
+        "name": "ALTUNİZADE MAH",
+        "code": "34662"
+      }, {
+        "name": "BARBAROS MAH",
+        "code": "34662"
+      }]
+    }, {
+      "name": "BAHÇELİEVLER",
+      "neighborhoods": [{
+        "name": "BAHÇELİEVLER MAH",
+        "code": "34688"
+      }]
+    }, {
+      "name": "BEYLERBEYİ",
+      "neighborhoods": [{
+        "name": "BEYLERBEYİ MAH",
+        "code": "34676"
+      }, {
+        "name": "BURHANİYE MAH",
+        "code": "34676"
+      }, {
+        "name": "KÜPLÜCE MAH",
+        "code": "34676"
+      }]
+    }, {
+      "name": "BULGURLU",
+      "neighborhoods": [{
+        "name": "BULGURLU MAH",
+        "code": "34696"
+      }, {
+        "name": "KÜÇÜK ÇAMLICA MAH",
+        "code": "34696"
+      }]
+    }, {
+      "name": "CUMHURİYET",
+      "neighborhoods": [{
+        "name": "CUMHURİYET MAH",
+        "code": "34697"
+      }]
+    }, {
+      "name": "ÇENGELKÖY",
+      "neighborhoods": [{
+        "name": "ÇENGELKÖY MAH",
+        "code": "34680"
+      }, {
+        "name": "GÜZELTEPE MAH",
+        "code": "34680"
+      }]
+    }, {
+      "name": "FERAH",
+      "neighborhoods": [{
+        "name": "FERAH MAH",
+        "code": "34692"
+      }, {
+        "name": "KISIKLI MAH",
+        "code": "34692"
+      }]
+    }, {
+      "name": "KANDİLLİ",
+      "neighborhoods": [{
+        "name": "KANDİLLİ MAH",
+        "code": "34684"
+      }, {
+        "name": "KULELİ MAH",
+        "code": "34684"
+      }, {
+        "name": "KÜÇÜKSU MAH",
+        "code": "34684"
+      }]
+    }, {
+      "name": "KİRAZLITEPE",
+      "neighborhoods": [{
+        "name": "KİRAZLITEPE MAH",
+        "code": "34682"
+      }, {
+        "name": "MEHMET AKİF ERSOY MAH",
+        "code": "34682"
+      }]
+    }, {
+      "name": "KUZGUNCUK",
+      "neighborhoods": [{
+        "name": "İCADİYE MAH",
+        "code": "34674"
+      }, {
+        "name": "KUZGUNCUK MAH",
+        "code": "34674"
+      }, {
+        "name": "SULTANTEPE MAH",
+        "code": "34674"
+      }]
+    }, {
+      "name": "MİMARSİNAN",
+      "neighborhoods": [{
+        "name": "AHMEDİYE MAH",
+        "code": "34672"
+      }, {
+        "name": "AZİZ MAHMUT HÜDAYİ MAH",
+        "code": "34672"
+      }, {
+        "name": "MİMAR SİNAN MAH",
+        "code": "34672"
+      }]
+    }, {
+      "name": "MURATREİS",
+      "neighborhoods": [{
+        "name": "MURATREİS MAH",
+        "code": "34664"
+      }, {
+        "name": "SELAMİ ALİ MAH",
+        "code": "34664"
+      }, {
+        "name": "VALİDE-İ ATİK MAH",
+        "code": "34664"
+      }]
+    }, {
+      "name": "SELİMİYE",
+      "neighborhoods": [{
+        "name": "SALACAK MAH",
+        "code": "34668"
+      }, {
+        "name": "SELİMİYE MAH",
+        "code": "34668"
+      }, {
+        "name": "ZEYNEP KAMİL MAH",
+        "code": "34668"
+      }]
+    }, {
+      "name": "ÜNALAN",
+      "neighborhoods": [{
+        "name": "ÜNALAN MAH",
+        "code": "34700"
+      }]
+    }, {
+      "name": "YAVUZTÜRK",
+      "neighborhoods": [{
+        "name": "YAVUZTÜRK MAH",
+        "code": "34690"
+      }]
+    }]
+  }, {
+    "name": "ZEYTİNBURNU",
+    "districts": [{
+      "name": "ÇIRPICI",
+      "neighborhoods": [{
+        "name": "ÇIRPICI MAH",
+        "code": "34025"
+      }, {
+        "name": "NURİPAŞA MAH",
+        "code": "34025"
+      }, {
+        "name": "SÜMER MAH",
+        "code": "34025"
+      }, {
+        "name": "VELİEFENDİ MAH",
+        "code": "34025"
+      }, {
+        "name": "YEŞİLTEPE MAH",
+        "code": "34025"
+      }]
+    }, {
+      "name": "SEYİTNİZAM",
+      "neighborhoods": [{
+        "name": "MERKEZEFENDİ MAH",
+        "code": "34015"
+      }, {
+        "name": "SEYİTNİZAM MAH",
+        "code": "34015"
+      }]
+    }, {
+      "name": "TELSİZ",
+      "neighborhoods": [{
+        "name": "BEŞTELSİZ MAH",
+        "code": "34020"
+      }, {
+        "name": "GÖKALP MAH",
+        "code": "34020"
+      }, {
+        "name": "KAZLIÇEŞME MAH",
+        "code": "34020"
+      }, {
+        "name": "TELSİZ MAH",
+        "code": "34020"
+      }, {
+        "name": "YENİDOĞAN MAH",
+        "code": "34020"
+      }]
+    }, {
+      "name": "TOPKAPI",
+      "neighborhoods": [{
+        "name": "MALTEPE MAH",
+        "code": "34010"
+      }]
+    }]
+  }]
+}]
